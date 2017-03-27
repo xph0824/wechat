@@ -1,0 +1,369 @@
+@charset "utf-8";
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"Microsoft YaHei","微软雅黑"; text-align: left;font-size: 0.28rem;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+.clear:after{clear:both;content:'';display:block;height:0;visibility:hidden;}
+a{text-decoration: none;}
+a:link,a:visited,a:hover,a:active{text-decoration:none;} 
+i{font-style: normal;}
+html{font-size: 100px;}
+body{
+	opacity: 0;
+}
+html, body {
+    height: 100%;
+}
+.swiper-container {
+	width: 100%;
+    color: #5a5a5a;
+    position: relative;
+	}
+.swiper-slide{
+	background: url(../img/bg.png) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+/*月报表第一张*/
+.month01{
+	text-align: center;
+}
+.titleP{
+	text-align: center;
+	font-size: 0.36rem;
+	letter-spacing: 0.06rem;
+	margin-top: 0.7rem;
+}
+.month01 img{
+	width: 4.21rem;
+	margin-top: 0.74rem;
+}
+.month01 .mean{
+	width: 80%;
+	margin: 0.6rem auto 0;
+	text-align: justify;
+	font-size: 0.28rem;
+	line-height: 0.44rem;
+}
+.month_page{
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	bottom: 0.7rem;
+	letter-spacing: 0.06rem;
+}
+/*月报表第二张*/
+.month02 ul{
+	border: 0.02rem solid #000;
+	width: 82%;
+	margin: 0.36rem auto 0.2rem;
+}
+.month02 ul li{
+	border-bottom: 0.02rem solid #000;
+	font-size: 0.26rem;	
+	letter-spacing: 0.04rem;
+}
+.month02 ul li span{
+	display: inline-block;
+	width: 40%;
+	padding-left: 0.12rem;
+	color: #fff;
+	border-right: 0.02rem solid #000;
+	height: 0.42rem;
+	line-height: 0.42rem;
+}
+.month02 ul li i{
+	display: inline-block;
+	width: 44.3%;
+	padding-left: 0.68rem;
+	background: #dee7d2;
+	color: #333333;
+	height: 0.42rem;
+	line-height: 0.42rem;
+}
+.color01{background: #e0b50a;}
+.color02{background: #e0880a;}
+.color03{background: #e1520c;}
+.color04{background: #5fd420;}
+.color01{background: #e0b50a;}
+.color02{background: #e0880a;}
+.color03{background: #e1520c;}
+.color04{background: #5fd420;}
+.month02 ul .presentBefore{background: #e0b50a;}
+.month02 ul .persentAfter{background: #e0880a;}
+.month02 div{
+	width: 75%;
+	margin: 0 auto;
+	text-align: justify;
+	line-height: 0.44rem;
+	letter-spacing: 0.06rem;
+}
+/*月报表第三张*/
+.times{
+	width: 2.42rem;
+	height: 2.02rem;
+	border: 0.02rem solid #09a545;
+	border-radius: 50%;
+	text-align: center;
+	padding-top: 0.4rem;
+	margin: 0.2rem auto;
+	line-height: 0.6rem;
+	font-size: 0.34rem;
+}
+.times span{
+	font-size: 0.42rem;
+	font-weight: bold;
+}
+.timeShow{
+	width:73%;
+	margin: 0 auto;
+	letter-spacing: 0.06rem;
+	font-size: 0.3rem;
+	text-align:center;
+}
+.month3 hr{
+	width: 73%;
+	margin: 0.28rem auto;
+	background: #898989;
+}
+.month3 ol{
+	width: 68%;
+	margin: 0 auto;
+	font-size: 0.24rem;
+	letter-spacing: 0.02rem;
+	text-align: justify;
+	border: 0.02rem solid #00a23f;
+	padding:0.24rem 0.2rem 0.24rem 0.12rem;
+	border-radius: 0.1rem;
+	line-height: 0.44rem;
+}
+.month3 ol p{
+	font-size: 0.3rem;
+}
+/*月报表第四张*/
+.colorInstruc{
+	text-align: center;
+	margin-top: 0.2rem;
+}
+.colorInstruc i{
+	display: inline-block;
+	width: 0.27rem;
+	height: 0.27rem;
+	vertical-align: middle;
+	border-radius: 50%;
+	margin: 0 0.2rem 0 0.3rem;
+}
+.colorInstruc i:nth-child(1){border: 0.02rem solid #eab42b;margin-left: 0;background:#eab42b;}
+.colorInstruc i:nth-child(2){border: 0.02rem solid #77ea2b;background:#77ea2b;}
+.colorInstruc i:nth-child(3){border: 0.02rem solid #25dcbc;background:#25dcbc;}
+#mychart{
+	width: 85%;
+	height: 3rem;
+	margin: -0.3rem auto 0.26rem;
+	padding-top: -0.4rem;
+}
+.month4Mean{
+	width: 70%;
+	margin: 1.8rem auto 0;
+	font-size: 0.3rem;
+	text-align: justify;
+}
+/*月报表第五张*/
+.month5 ul{
+	padding: 0.2rem 0;line-height: 0.44rem;
+	border-bottom: 0.02rem solid #a27e00;
+	width: 78.7%;
+	margin: 0.1rem auto 0.2rem;
+	font-size: 0.26rem;
+}
+.monthStart{
+	color: #00a23f;
+}
+.monthEnd{
+	color: #a27e00;
+}
+.month5 ol{
+	width: 82%;
+	margin: 0.1rem auto;
+}
+.month5 ol li{
+	padding: 0.3rem 0;
+	font-size: 0.3rem;
+}
+.month5 ol li span{
+	display: inline-block;
+	margin-left: 0.3rem;
+}
+.month5 ol li i{
+	display: inline-block;
+	width: 0.26rem;
+	height: 0.45rem;
+	margin-left: 0.2rem;
+	vertical-align: middle;                                                                            
+}
+.riseImg{
+	background: url(../img/rise.png) 0 0 no-repeat;
+	background-size: 100%;
+}
+.dropImg{
+	background: url(../img/drop.png) 0 0 no-repeat;
+	background-size: 100%;
+}
+.colorGre{
+	color: #00a23f;
+}
+.colorYel{
+	color: #ac8e1f;
+}
+.month5_table{
+	width:86%;
+	margin:0.4rem auto;
+	font-size:0.3rem;
+	text-align:center;
+	border-right:1px solid #c1bdbd;
+	border-bottom:1px solid #c1bdbd;
+	}
+.month5_table tr{
+	height:0.72rem;
+}
+.month5_table td,.month5_table th{
+	border-left:1px solid #c1bdbd;
+	border-top:1px solid #c1bdbd;
+}
+.month5_table td{
+	color:#b8b8b8;
+}
+/*月报表第六张*/
+.month6{
+	text-align: center;
+}
+.month6 img{
+	width: 2.07rem;
+	margin-top: 0.8rem;
+}
+.month6_title{
+	margin: 0.2rem 0;
+}
+.month6_title span{
+	color: #00a23f;
+}
+.month6 ul{
+	width: 74%;
+	margin: 0 auto;
+	padding: 0.3rem;
+	text-align: justify;
+	-webkit-border-image:url(../img/flower_bor.png) 0 0 round;
+	letter-spacing: 0.03rem;
+	line-height: 0.44rem;
+}
+.month6 ul p{
+	font-size: 0.3rem;
+}
+
+
+
+/*日期查看*/
+.date{
+	width: 6.4rem;
+	background: #f8f8f8;
+}
+.date_uls{
+	width: 96%;
+	margin: 0.28rem auto 0.3rem;
+	border: 0.02rem solid #6eb92b;
+	border-radius: 0.06rem;
+	overflow: hidden;
+	height: 0.56rem;
+	line-height: 0.56rem;
+	display: -webkit-flex; /* Safari */
+	display: flex;
+}
+.date_uls li{
+	flex:1;
+/* 	width: 24.7%;
+	float: left;	 */
+	text-align: center;
+	color: #6eb92b;
+	border-right:0.02rem solid #6eb92b;
+}
+.date_uls li:nth-child(4){
+	border-right: 0;
+}
+.date_uls .date_select{
+	background: #6eb92b; 
+	color: #fff;
+}
+.sectionP{
+	background: #fff;
+	height: 0.56rem;
+	font-size: 0.28rem;
+	text-align: center;
+	line-height: 0.56rem;
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+	margin-bottom: 0.2rem;
+}
+.sectionP i{
+	display: inline-block;
+	width: 0.4rem;
+	color: #6eb92b;
+}
+#dateChart,#dateChart2,#dateChart3,#dateChart4{
+	background: #fff;
+	border-top: 0.02rem solid #f2f2f2;
+	width:100%;
+	height: 330px;
+	margin: 0 auto;
+	padding-top:0.1rem;
+}
+.section{width: 100%;overflow: hidden;}
+.date_section{width: 100%;
+	position: absolute;
+	top: 1.14rem;
+	opacity: 0;
+	left: 0;}
+.dateSecBlock{z-index: 100;opacity: 1;}
+.po_hei{
+	height: 386px;
+}
+.date_ols{
+	position: relative;
+	z-index: 110;
+	border-bottom: 0.02rem solid #f2f2f2;
+	margin-bottom: 0.7rem;
+}
+.date_ol_title{
+	font-size: 0.3rem;
+	color: #555656;
+	padding: 0.22rem 0.1rem;
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+}
+.date_ol_title a{
+	float: right;
+	width: 1.1rem;
+	border-radius: 0.04rem;
+	height: 0.34rem;
+	font-size: 0.22rem;
+	color: #fff;
+	background: #6eb92b;
+	text-align: center;
+	line-height: 0.34rem;
+	vertical-align: middle;
+	margin-top: 0.03rem
+}
+.date_ols li{
+	background: #fff;
+	height: 0.7rem;
+	color: #000;
+	font-size: 0.26rem;
+	line-height: 0.7rem;
+	padding: 0 0.1rem;
+}
+.date_ols li span{
+	float: right;
+}

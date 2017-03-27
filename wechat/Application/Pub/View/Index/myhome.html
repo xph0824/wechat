@@ -1,0 +1,45 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>血糖仪个人中心</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />   
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> <meta name="format-detection" content="telephone=no" />
+	<link rel="stylesheet" href="__PUBLIC__/css/common.css">
+</head>
+<body>
+	<div class="allbox">
+		<div class="personBig">
+			<div class="personalDiv">
+				<div class="personal_cir01">
+					<p class="personal_cir02">
+					<volist name="head" id="res">
+						<img src="{$res}" alt="">
+					</volist>	
+					</p>
+				</div>
+				<div class="personal_rig">
+				<volist name="rows" id="row">
+					<p class="personalName">{$row['user']}</p>
+					<p class="personalAddre">地址：<span>{$row['province']}</span></p>
+				</volist>
+				</div>
+			</div>
+			<ul class="personalUl">
+				<li><a href="{:U('Index/carefor',array('id'=>$row['openid']))}"><i><img src="__PUBLIC__/img/personal01.png" alt=""></i>我关注谁<span></span></a></li>
+				<li><a href="{:U('Index/health_report',array('id'=>$row['openid']))}"><i><img src="__PUBLIC__/img/personal02.png" alt=""></i>健康报告<span></span></a></li>
+				<!-- <li><a href=""><i><img src="__PUBLIC__/img/personal03.png" alt=""></i>咨询历史<span></span></a></li> -->
+			</ul>
+		</div>
+	</div>
+	<script type="text/javascript" src="__PUBLIC__/js/common.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			var hh=$(window).height();
+			$(".personBig").height(hh);
+		});
+	</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>设备详情</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />   
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> <meta name="format-detection" content="telephone=no" />
+	<link rel="stylesheet" href="__PUBLIC__/css/common.css">
+</head>
+<body>
+	<div class="allbox">
+	<volist name="openid" id="res">
+		<ul class="device_ul">
+			<div class="brown"></div>
+			<li><a href="{:U('Index/img',array('id'=>$res))}">设备二维码<i></i></a></li>			 
+			<li><a href="{:U('Index/resive',array('id'=>$res))}">使用人信息修改<i></i></a></li>			
+			<li><a href="{:U('Index/handle')}">操作指南<i></i></a></li>
+			<li><a href="{:U('Index/question')}">试用问答<i></i></a></li>
+		</ul>
+	</volist>
+	</div>
+	<script type="text/javascript" src="__PUBLIC__/js/common.js"></script>	
+	<script type="text/javascript" src="__PUBLIC__/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+				var hh=$(window).height();
+				$(".device_ul").height(hh);
+			});
+	</script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+@charset "utf-8";
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"Microsoft YaHei","微软雅黑"; text-align: left;font-size: 0.28rem;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+.clear:after{clear:both;content:'';display:block;height:0;visibility:hidden;}
+a{text-decoration: none;}
+a:link,a:visited,a:hover,a:active{text-decoration:none;} 
+i{font-style: normal;}
+html{font-size: 100px;}
+/*分享有礼*/
+.sharebox{
+	width: 7.2rem;
+	background: url(../img/share-bg.png) 0.36rem 0 no-repeat;
+	background-size: 90% 61%;
+	}
+.kong{height: 0.32rem;}
+.sharebox img{
+	display: block;
+}
+.shareImg01{width: 6.55rem;margin: 0 auto 0.2rem;}
+.shareImg02{width: 6.28rem;margin: 0 auto 0.1rem;}
+.shareImg03{width: 5.8rem;margin: 0 auto 0.2rem;}
+.shareCon{
+	overflow: hidden;
+	width: 100%;
+}
+.shareLeft{
+	color: #2d2d2d;
+	float: left;
+	font-weight: 400;
+	width: 3.16rem;
+	margin-left: 0.38rem;
+	font-size: 0.36rem;
+	letter-spacing: 0.04rem;
+}
+.shareRight{
+	float: left;
+	width: 3.56rem;
+}
+.returnA{
+	display: block;
+	width: 4.3rem;
+	margin: 0.1rem auto 0;
+	height: 0.64rem;
+	background: url(../img/bor.png) 0 0 no-repeat;
+	background-size: 100% 100%;
+	line-height: 0.64rem;
+	color: #fff;
+	letter-spacing: 0.02rem;
+	font-size: 0.34rem;
+	text-align: center;
+}
+
+/*会员收益*/
+.member{
+	width: 7.2rem;
+	background: #0087d4 url(../img/member-bg.png) 0 0 no-repeat;
+	background-size: 100% 90%;
+}
+.memberKong{height: 0.2rem;}
+.memberImg01{
+	width: 6.37rem;
+	display: block;
+	margin:0 auto 0.5rem;
+}
+.memberCon{
+	position: relative;
+}
+.memberConImg{
+	width: 7.06rem;
+	margin-left: 0.1rem;
+}
+.memberWe{
+	width: 1.62rem;
+	position: absolute;
+	right: 0.22rem;
+	top: 0.74rem;
+}
+.memberBot{
+	width: 4.03rem;
+	display: block;
+	margin: 0.5rem auto 0;
+}
+
+/*晒一晒*/
+.show{
+	width: 7.2rem;
+	background: #fff0cb url(../img/show-bg.png) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.showKong{height: 0.26rem;}
+.showImg01{
+	width: 5.38rem;
+	display: block;
+	margin: 0 auto 0.28rem;
+}
+.showImg02{
+	width: 6.33rem;
+	display: block;
+	margin: 0 auto 0.4rem;
+}
+.showImg03{
+	width: 6.61rem;
+	display: block;
+	margin: 0 auto;
+}

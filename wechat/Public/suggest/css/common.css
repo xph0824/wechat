@@ -1,0 +1,35 @@
+﻿@charset "utf-8";
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"Microsoft YaHei","微软雅黑"; font-size: 0.2rem; text-align: left;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+.clear:after{clear:both;content:'';display:block;height:0;visibility:hidden;}
+a{text-decoration: none;}
+a:link,a:visited,a:hover,a:active{text-decoration:none;} 
+i{font-style: normal;}
+html{font-size: 100px;transition: all 0.3s ease-in-out;}
+/*==========================Reset_End===========================*/
+/* body{display: none;} */
+.allBox{width: 6.4rem;background:#f8f8f8;}
+.top_title{width: 100%;background: #6eb92b;text-align: center;color: #fff;font-size: 0.28rem;height: 0.64rem;line-height: 0.64rem;position: fixed;top: 0;z-index: 1;}
+.blood{width: 100%;padding: 0.2rem 0 0.01rem;position: relative;margin-top: 0.7rem; }
+.circle01{width: 1.62rem;height: 1.62rem;border: 0.04rem solid #6eb92b;margin-left:38%;border-radius: 50%;overflow: hidden;text-align: center;}
+.circle01 p:nth-child(1){font-size: 0.42rem;color: #000;font-weight: bold;margin-top: 0.3rem}
+.circle01 p:nth-child(2){font-size: 0.18rem;color: #8f8f9d;}
+.circle01 p:nth-child(3){font-size: 0.28rem;color: #000;margin-top: -0.04rem;}
+.circle02{position: absolute;left: 67%;top: 0.8rem;font-size: 0.18rem;color: #8f8f9d;width: 1.2rem;text-align: center;}
+.circle02 a{display: block;}
+.circle02 a img{width: 0.72rem;}
+.detail{width: 100%;font-size: 0.28rem;letter-spacing: 0.02rem;}
+.detail li,.detailTitle{border-bottom: 0.02rem solid #e0e0e0;padding: 0.16rem 0.22rem;}
+.detail li{background:#fff;}
+.detailTitle{font-size: 0.36rem;padding-left:0.18rem ;}
+.detail li span{float: right;}
+.detailUl02{width: 100%;font-size: 0.28rem;padding: 0.16rem 0 0;background:#fff;}
+.detailUl02 li{padding: 0 0.24rem;text-align: justify;margin-bottom: 0.3rem;line-height: 0.42rem;}
+.detailUl02 li p{text-indent: 0.34rem;}

@@ -1,0 +1,860 @@
+﻿@charset "utf-8";
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"Microsoft YaHei","微软雅黑"; font-size: 0.2rem; text-align: left;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+.clear:after{clear:both;content:'';display:block;height:0;visibility:hidden;}
+a{text-decoration: none;}
+a:link,a:visited,a:hover,a:active{text-decoration:none;} 
+i{font-style: normal;}
+html{font-size: 100px;transition: all 0.3s ease-in-out;}
+/*==========================Reset_End===========================*/
+/* body{display: none;} */
+/*八个数据分析页面*/
+.allBox {
+	width: 6.4rem;
+	background:#f8f8f8;
+	}
+.top_title {
+	width: 100%;
+	background: #18b4ed;
+	text-align: center;
+	color: #fff;
+	font-size: 0.28rem;
+	height: 0.64rem;
+	line-height: 0.64rem;
+	position: fixed;
+	top: 0;
+	z-index: 1;
+	}
+.blood {
+	width: 100%;
+	padding: 0.2rem 0 0.01rem;
+	position: relative;
+	margin-top: 0.7rem; 
+	}
+.circle01 {
+	width: 1.62rem;
+	height: 1.62rem;
+	border: 0.04rem solid #1abeed;
+	margin-left:38%;
+	border-radius: 50%;
+	overflow: hidden;
+	text-align: center;
+	}
+.circle01 p:nth-child(1) {
+	font-size: 0.42rem;
+	color: #000;
+	font-weight: bold;
+	margin-top: 0.24rem;
+	}
+.circle01 p:nth-child(2) {
+	font-size: 0.18rem;
+	color: #8f8f9d;
+	}
+.circle01 p:nth-child(3) {
+	font-size: 0.28rem;
+	color: #000;
+	margin-top: -0.04rem;
+	}
+.circle02 {
+	position: absolute;
+	left: 67%;
+	top: 0.8rem;
+	font-size: 0.18rem;
+	color: #8f8f9d;
+	width: 1.2rem;
+	text-align: center;
+	}
+.circle02 a {
+	display: block;
+	}
+.circle02 a img {
+	width: 0.72rem;
+	}
+.detail {
+	width: 100%;
+	font-size: 0.28rem;
+	letter-spacing: 0.02rem;
+	}
+.detail li , .detailTitle {
+	border-bottom: 0.02rem solid #e0e0e0;
+	padding: 0.16rem 0.22rem;
+	}
+.detailTitle {
+	font-size: 0.36rem;
+	padding-left:0.18rem;
+	}
+.detail li span {
+	float: right;
+	}
+.detailUl02 { 
+	width: 100%;
+	font-size: 0.28rem;
+	padding: 0.16rem 0 0;
+	}
+.detailUl02 li {
+	padding: 0 0.24rem;
+	text-align: justify;
+	margin-bottom: 0.3rem;
+	line-height: 0.42rem;
+	}
+
+
+/*首页*/
+.topDiv {
+	width: 100%;
+	text-align: center;
+	position: relative;
+	color: #fff;
+	padding: 0.7rem 0 0.4rem;
+    background: -webkit-linear-gradient(#6db82a, #1f9200); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#6db82a, #1f9200); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#6db82a, #1f9200); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#6db82a, #1f9200); /* 标准的语法 */
+	}
+.logo{
+	width:1.57rem;
+	position:absolute;
+	left:0.22rem;
+	top:0.2rem;
+}
+.personal{
+	position: absolute;
+	top: 0.2rem;
+	right: 0.2rem;
+	}
+.personal img{
+	width: 0.38rem;
+	}
+	/*圆*/
+.blood_Num{
+	width: 2.72rem;
+	height: 2.72rem;
+	margin: 0 auto;
+	border: 0.1rem solid #1f9200;
+	border-radius: 50%;
+	background: #6eb92b;
+	}
+.blood_Num p{
+	font-size: 1.1rem;
+	font-family: "SimHei";
+	/* margin-top: 16%; */
+	}
+.blood_Num span{
+	font-size: 0.26rem;
+	}
+.blood_yi{
+	font-size: 0.34rem;
+	margin-top: 0.32rem;
+	}
+	/*数据分析*/
+.bloodNum_analy{
+	width: 100%;
+	height: 0.84rem;
+	background: #6eb92b;
+	font-size: 0.38rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.84rem;
+	letter-spacing: 0.05rem;
+	background: -webkit-linear-gradient(#6eb92b, #219302); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#6eb92b, #219302); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#6eb92b, #219302); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#6eb92b, #219302); /* 标准的语法 */
+	}
+.blood_select{
+	overflow: hidden;
+	background:#f8f8f8;
+	}
+.blood_select li{
+	float: left;
+	width: 26%;
+	font-size: 0.3rem;
+	color: #6eb92b;
+	text-align: center;
+	height: 0.48rem;
+	line-height: 0.5rem;
+	border: 0.02rem solid #6eb92b;
+	letter-spacing: 0.04rem;
+	margin: 0.2rem 0.4rem 0;
+	border-radius: 0.1rem;
+	}
+.blood_select li:nth-child(1){
+	margin-left: 1.07rem;
+	}
+.blood_select .blood_now{
+	color: #fefefe;
+	background: #1f9200;
+	}
+	/*餐前餐后*/
+.bloodSection{
+	width: 100%;
+	font-size: 0.28rem;
+	letter-spacing: 0.02rem;
+	display: none;
+	}
+.bloodShow{display: block;}
+.bloodSection li {
+	background:#fff;
+}
+.bloodSection li , .beforeBlood {
+	border-bottom: 0.02rem solid #e0e0e0;
+	padding: 0.16rem 0.22rem;
+	}
+.beforeBlood {
+	padding-left:0.18rem;
+	background:#f8f8f8;
+	font-size: 0.28rem;
+	}
+	/*查看明细*/
+.indexJumpDiv{
+	margin-top:0.2rem;
+	text-align:center;
+}
+.indexJump{
+	border-radius:0.08rem;
+	display:inline-block;
+	width:2rem;
+	height:0.48rem;
+	line-height:0.48rem;
+	background: url(../img/jumpBor.png) 0 0 no-repeat;
+	background-size: 100%;
+	color:#209301;
+	font-size:0.28rem;
+}
+.indexJump img{
+	width:0.4rem;
+	vertical-align:middle;
+}
+.bloodSection li span {
+	float: right;
+	}
+	/*空盒子，以便footer菜单栏不遮盖上边内容*/
+.bot{height: 2rem;background:#f8f8f8}
+	/*footer菜单栏*/
+.footer{
+	width: 100%;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	background: #f8f8f8;
+	z-index: 2;
+	border-top: 0.02rem solid #bebebe;
+	}
+.footer li{
+	float: left;
+	width: 33%;
+	text-align: center;
+	padding-bottom: 0.16rem;
+	}
+.footer li:nth-child(2){
+	border-right: 0.02rem solid #e9e9e9;
+	border-left: 0.02rem solid #e9e9e9;
+	}
+.footer li a{
+	display: block;
+	color: #555656;
+	}
+.footer li p{
+	height: 1rem;
+	line-height: 1rem;
+	
+	}
+.footer li p img{
+	vertical-align: middle;
+	}
+.footerImg01{width: 0.77rem;}
+.footerImg02{width: 0.73rem;}
+.footerImg03{width: 0.75rem;}
+.footer li span{
+	font-size: 0.28rem;
+	}
+
+
+/*操作指南*/
+.handleLogo , .handleCon{
+	width: 100%;
+	}
+.handleLogo{
+	text-align: right;
+	}
+.handleLogo img{
+	width: 2.02rem;
+	margin: 0.2rem;
+	}
+.handleCon img{margin-bottom: 0.4rem;margin-left: 0.1rem;}
+.handleImg01{width: 5.97rem;}
+.handleImg02{width: 6.03rem;}
+.handleImg03{width: 6.07rem;}
+.handleImg04{width: 6.05rem;}
+.handleImg05{width: 5.95rem;}
+.handleImg06{width: 5.88rem;}
+.handleImg07{width: 5.73rem;}
+.handleImg08{width: 5.62rem;}
+.handleImg09{width: 5.13rem;}
+
+/*个人中心*/
+.personBig{
+	background:#f8f8f8;
+}
+.personalDiv{
+	background:#fff;
+	width: 100%;
+	padding: 0.36rem 0 0.22rem;
+	border-bottom: 0.02rem solid #e0e0e0;
+	overflow: hidden;
+	margin-bottom: 0.2rem;
+}
+.personal_cir01{
+	float: left;
+	width: 1.34rem;
+	height: 1.34rem;
+	border-radius: 50%;
+	border: 0.02rem solid #6eb92b;
+	position: relative;
+	margin: 0 0.4rem 0 0.26rem;
+}
+.personal_cir02{
+	width: 1.26rem;
+	height: 1.26rem;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.04rem;
+	top: 0.04rem;
+	text-align: center;
+	line-height: 1.26rem;
+	overflow: hidden;
+	position: relative;
+}
+.personal_cir02 img{
+	width: 1.26rem;
+}
+.personal_rig{
+	float: left;
+	width: 4.2rem;
+}
+.personalName{
+	font-size: 0.32rem;
+	color: #454545;
+	font-weight: bold;
+	margin-top: 0.24rem;
+}
+.personalAddre{
+	font-size: 0.24rem;
+	color: #555656;
+	margin-top: 0.1rem;
+}
+/*选项*/
+.personalUl{
+	width: 100%;
+}
+.personalUl li{
+	background:#fff;
+	border-top: 0.02rem solid #e0e0e0;
+	border-bottom: 0.02rem solid #e0e0e0;
+	padding: 0.2rem 0.1rem 0.2rem 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.personalUl li a{
+	display: block;
+	color: #555656;
+	font-size: 0.3rem;
+}
+.personalUl li i{
+	display: inline-block;
+	width: 0.8rem;
+	text-align: center;
+	height: 0.41rem;
+	margin-right: 0.1rem;
+	line-height: 0.41rem;
+}
+.personalUl li i img{
+	vertical-align: middle;
+}
+.personalUl li:nth-child(1) i img{
+	width: 0.49rem;
+}
+.personalUl li:nth-child(2) i img{
+	width: 0.4rem;
+}
+.personalUl li:nth-child(3) i img{
+	width: 0.41rem;
+}
+.personalUl li span{
+	width: 0.12rem;
+	margin-top: 0.12rem;
+	vertical-align: middle;
+	height: 0.22rem;
+	float: right;
+	background: url(../img/right.png) 0 0 no-repeat;
+	background-size: 100%;
+}
+
+
+/*健康报告*/
+.health_report{
+	width: 100%;
+	background:#f8f8f8;
+}
+.health_report li{
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+	font-size: 0.3rem;
+	color: #555656;
+	background:#fff;
+	margin-bottom:0.2rem;
+}
+.health_report li a{
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+	padding: 0.24rem 0.1rem 0.24rem 0.16rem;
+	color: #555656;
+	display: block;
+	background:#fff;
+}
+.health_report li i{
+	float: right;
+	width: 0.12rem;
+	height: 0.22rem;
+	margin-top: 0.12rem;
+	margin-right: 0.1rem;
+	background: url(../img/right.png) 0 0 no-repeat;
+	background-size: 100%;
+}
+/*用户和选择月份*/
+.health_report .health_report_user , .health_report .health_report_time{
+	padding: 0.24rem 0;
+}
+.health_report .health_report_user{padding-right:0.2rem;}
+.health_report .health_report_time{position:relative;border:none;}
+.health_report .health_report_time b{position:absolute;
+	display:inline-block;
+	width: 0.22rem;
+	height: 0.12rem;
+	top: 0.34rem;
+	right:0.2rem;
+	background: url(../img/down.png) 0 0 no-repeat;
+	background-size: 100%;
+	margin-left: 0.3rem;
+}
+.health_report .health_report_user span ,.health_report .health_report_time span{
+	float: right;
+	color: #818181;
+}
+.health_report .health_report_time span{
+	display:inline-block;
+	margin-right:0.46rem;
+}
+
+
+/*健康报告结果*/
+.health_result{
+	width: 100%;
+	padding-top: 0.65rem;
+	text-align: center;
+	font-size: 0.3rem;
+}
+.health_result img{
+	width: 1.53rem;
+	margin-bottom: 0.44rem;
+}
+.health_result p{
+	color: #cbcbcb;
+	padding: 0 0.26rem;
+}
+.health_result a, #signUp_sub,#resive_sub{
+	display: block;
+	width: 2.14rem;
+	height: 0.7rem;
+	background: #00a23f;
+	color: #fff;
+	border-radius: 0.06rem;
+	text-align: center;
+	line-height: 0.7rem;
+	font-size: 0.34rem;
+	letter-spacing: 0.06rem;
+	margin: 1.02rem auto 0;
+}
+
+
+/*健康问答*/
+.ask_question{
+	width: 100%;
+	border:0.01rem solid #f8f8f8;
+	background:#f8f8f8;
+}
+.ask_question dl{
+	border-top: 0.02rem solid #e4e4e4;
+	border-bottom: 0.02rem solid #e4e4e4;
+	margin-top: 0.2rem;
+	line-height: 0.4rem;
+	text-align: justify;
+	font-size: 0.24rem;
+	padding: 0.1rem 0.24rem 0.1rem 0.1rem;
+	background:#fff;
+}
+.ask_question dl dt{
+	font-weight: bold;
+}
+.ask_questionImg01{width: 3.58rem;margin-top: 0.1rem;}
+.ask_questionImg02{width: 3.47rem;margin-top: 0.1rem;}
+
+
+/*取消关注*/
+.unfollow{
+	width: 100%;
+}
+.unfollowTitle{
+	border-bottom: 0.02rem solid #f2f2f2;
+	font-size: 0.34rem;
+	color: #454545;
+	padding: 0.3rem 0;
+	text-align: center;
+}
+.unfollowUl li{
+	margin-top: 0.2rem;
+	line-height: 0.68rem;
+	padding: 0.04rem 0.16rem;
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+}
+.unfollow_circle01{
+	float: left;
+	width: 0.68rem;
+	height: 0.68rem;
+	border: 0.03rem solid #6eb92b;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 0.2rem;
+}
+.unfollow_circle02{
+	width: 0.6rem;
+	height: 0.6rem;
+	border-radius: 50%;
+	position: absolute;
+	left: 0.04rem;
+	top: 0.04rem;
+	overflow: hidden;
+	text-align: center;	
+}
+.unfollow_circle02 img{
+	width: 0.6rem;
+	vertical-align: middle;
+}
+.unfollowName{
+	font-size: 0.28rem;
+}
+.unfollowBut{
+	float: right;
+	width: 1.44rem;
+	height: 0.44rem;
+	border: 0.02rem solid #00a23f;
+	color: #00a23f;
+	background: #fff;
+	border-radius: 0.06rem;
+	margin-top: 0.15rem;
+	font-size: 0.22rem;
+}
+
+
+/*设备详情*/   /*我关注谁*/
+.device_ul , .carefor{
+	background:#f8f8f8;
+	width: 100%;
+}
+.device_ul li , .carefor li{
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+	margin-bottom: 0.2rem;
+	background:#fff;
+}
+.device_ul li a ,.carefor li a{
+	display: block;
+	color: #555656;
+	font-size: 0.3rem;
+	padding: 0.24rem 0.1rem 0.24rem 0.14rem;
+}
+.device_ul li a i , .carefor li a i{
+	float: right;
+	width: 0.12rem;
+	height: 0.22rem;
+	margin-top: 0.1rem;
+	background: url(../img/right.png) 0 0 no-repeat;
+	background-size: 100%;
+}
+/*我关注谁*/
+.carefor li a i{
+	margin-left: 0.34rem;
+}
+.carefor li a span{
+	float: right;
+	width: 2rem;
+	text-align: center;
+}
+
+
+/*修改成功*/
+.success{
+	width: 100%;
+	padding-top: 0.6rem;
+	text-align: center; 
+}
+.success img{
+	width: 1.64rem;
+	margin-bottom: 0.3rem;
+}
+.success p{
+	font-size: 0.4rem;
+}
+.success a{
+	display: block;
+	width: 2.14rem;
+	height: 0.7rem;
+	background: #00a23f;
+	color: #fff;
+	letter-spacing: 0.06rem;
+	font-size: 0.32rem;
+	text-align: center;
+	line-height: 0.7rem;
+	margin: 1rem auto 0; 
+	border-radius: 0.06rem;
+}
+
+
+/*用户注册*/
+::-webkit-input-placeholder { /* WebKit browsers */ 
+color: #818181; 
+} 
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */ 
+color: #818181; 
+} 
+::-moz-placeholder { /* Mozilla Firefox 19+ */ 
+color: #818181; 
+} 
+:-ms-input-placeholder { /* Internet Explorer 10+ */ 
+color: #818181; 
+} 
+.signUp{
+	width: 100%;
+	background:#f8f8f8;
+}
+.brown{background:#f8f8f8;
+	height:0.32rem;}
+.signUp li,.revise li{
+	background:#fff;
+	height: 0.8rem;
+	line-height: 0.8rem;
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+	margin-bottom: 0.2rem;
+	font-size: 0.32rem;
+}
+#signUpForm label,#reviseForm label{
+	float: left;
+	color: #555656;
+	margin:0 0.1rem 0 0.16rem ; 
+	display: inline-block;
+	height: 0.74rem;
+}
+#signUpForm input,#reviseForm input{
+	border: none;
+	font-size: 0.28rem;
+	width: 4.1rem;
+	color:#818181;
+	line-height: 0.8rem;
+	height: 0.74rem;
+}
+#signUp_sel{
+	border: none;
+	font-size: 0.28rem;
+	width: 4.72rem;
+	text-align:center;
+	color:#818181;
+	line-height: 0.8rem;
+	height: 0.74rem;
+}
+.connectionLi{
+	position: relative;
+}
+.connectionImg{
+	display: inline-block;
+	width: 0.22rem;
+	height: 0.12rem;
+	position: absolute;
+	right: 0.1rem;
+	top: 0.35rem;
+	background: url(../img/down.png) 0 0 no-repeat;
+	background-size: 100%;
+	z-index: 1;
+}
+/*详细地址*/
+.signUp .infolist{position:relative;height: 3rem;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+.infolist label{float: left;}
+.infolist .liststyle span{width: 1.17rem;position: relative;text-align: left;padding:0 0.1rem;height:0.4rem;line-height:0.4rem;display:inline-block;border:0.02rem solid #c9c9c9;background:white;float:left;margin:0.24rem 0.09rem 0 0;font-size: 0.28rem;}
+.infolist .liststyle span b{display:inline-block;position:absolute;right:0.1rem;top:0.11rem;width:0;height:0;border-left:0.08rem solid transparent;border-right:0.08rem solid transparent;border-top:0.14rem solid #555656;}
+.infolist .liststyle span i{width: 100%;overflow: hidden;display:inline-block;height:0.4rem;line-height:0.4rem;position:relative;}
+.infolist .liststyle span ul{width:100%;text-align:center;height: 4rem;position:absolute;border:0.02rem solid #c9c9c9;background:white;left:-0.01rem;top:0.36rem;border-top:0;margin-bottom:0.1rem;display:none;z-index:10;}
+.infolist .liststyle span ul{overflow: scroll!important;}
+#signUpForm .infolist .liststyle span ul li{width:100%;overflow:hidden;border-top:0.02rem solid #c9c9c9;height: 0.36rem;line-height: 0.36rem;margin-bottom: 0}
+.infolist .liststyle span ul li:first-child{border-top:0;}
+.infolist .liststyle span ul li a{display:block;height:0.36rem;line-height:0.36rem;color:#494949;}
+#signUp_text{
+	width: 86%;
+	height: 1.4rem;
+	font-size: 0.24rem;
+	margin: 0.2rem 0 0 0.26rem;
+	border: 0.02rem solid #d2d2d2;
+	padding: 0.14rem 0.12rem;
+	background:url(../img/textarea_bg.png) 98.5% 97% no-repeat;
+	background-size:0.2rem 0.2rem;
+
+}
+/*注册按钮（注：上边健康报告结果还有相同样式）*/
+#signUpForm #signUp_sub,#reviseForm #resive_sub{
+	width: 2.64rem;
+	line-height:0.66rem;
+	font-size:0.36rem;
+	color:#fff;
+	margin-top: 0.44rem;
+}
+#signUpForm #signUp_sub{
+	margin-top:0.2rem;
+}
+/*性别弹出框*/
+.sex_box,.connect_s{
+	display: none;
+	width: 78%;
+	background: #fff;
+	padding: 0.2rem;
+	position: absolute;
+	left: 8%;
+	top: 34%;
+	z-index: 100;
+}
+.sex_box li,.connect_s li{
+	padding: 0.1rem 0;
+	font-size: 0.3rem;
+}
+.sex_box li input,.connect_s li input{
+	margin: 0.16rem;
+	width: 0.3rem;
+	height: 0.3rem;
+	vertical-align: middle;
+}
+/*遮罩层*/
+.op{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: #000;
+	opacity: 0.4;
+	z-index: 50;
+}
+/*关系弹出框*/
+.connect_s{
+	top: 12%;
+	height: 7rem;
+	overflow: scroll;
+}
+
+
+/*用户信息修改(样式有同注册，在注册部分)*/
+.revise{
+	width: 100%;
+	background:#f8f8f8;
+}
+#reviseForm input{
+	color: #818181;
+}
+#reviseForm #resive_sub{
+	color: #fff;
+	line-height:0.66rem;
+}
+.revisePerson{
+	display: block;
+}
+.revisePerson p{
+	color: #818181;
+	float: right;
+	width: 2rem;
+	text-align: right;
+	margin-right: 0.1rem;
+}
+.revisePerson p i{
+	display: inline-block;
+	width: 0.12rem;
+	height: 0.22rem;
+	background: url(../img/right.png) 0 0 no-repeat;
+	background-size: 100%;
+	margin-left: 0.4rem;
+}
+
+
+
+/*使用人信息修改子页（要为谁记录测量数据）*/
+.mark_for{
+	width: 100%;
+	font-size: 0.32rem;
+	color: #555656;
+}
+.mark_for_title{
+	text-align: center;
+	padding: 0.36rem 0 0.2rem;
+}
+.mark_for_ul li,.mark_for_ul div{
+	padding: 0.16rem 0.1rem;
+	border-top: 0.02rem solid #f2f2f2;
+	border-bottom: 0.02rem solid #f2f2f2;
+	margin-bottom: 0.2rem;
+}
+.mark_for_ul li label{
+	display: inline-block;
+	width: 0.46rem;
+	height: 0.46rem;
+	background:url(../img/select0.png) 0 0 no-repeat;
+	background-size: 100%; 
+	margin-right: 0.4rem;
+	position: relative;	
+	vertical-align: middle;
+}
+.mark_for_ul li input{
+	width: 2rem;
+	height: 0.46rem;
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+}
+.mark_for_ul div i{
+	display: inline-block;
+	width: 0.45rem;
+	height: 0.45rem;
+	background: url(../img/add.png) 0 0 no-repeat;
+	background-size: 100%;
+	vertical-align: middle;
+	margin-right: 0.24rem;
+}
+.mark_for_ul div a{
+	display: block;
+	color: #555656;
+}
+#mask_Sub{
+	display: block;
+	margin: 0.6rem auto 0;
+	width: 2.64rem;
+	height: 0.7rem;
+	background: #00a23f;
+	border: none;
+	border-radius: 0.06rem;
+	color: #fff;
+	font-size: 0.34rem;
+	letter-spacing: 0.04rem;
+	font-weight: bold;	
+}

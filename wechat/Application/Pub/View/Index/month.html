@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>月报表</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />   
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> <meta name="format-detection" content="telephone=no" />
+	<link rel="stylesheet" href="__PUBLIC__/css/swiper-3.3.1.min.css">
+	<link rel="stylesheet" href="__PUBLIC__/css/month.css">
+	<script type="text/javascript" src="__PUBLIC__/js/echarts.js"></script>
+</head>
+<body>
+	<div class="swiper-container">
+	    <div class="swiper-wrapper">
+	    	<!-- 第一张 -->
+	        <div class="swiper-slide">
+				<div class="month01">
+					<p class="titleP">血糖月报</p>
+					<img src="__PUBLIC__/img/month01.png" alt="">
+					<p class="mean">
+					<volist name="arr" id="res"></volist>
+						您本月的平均血糖值<span>{$arr['avg']}</span>mmol/L,最高血糖值<span>{$arr['max']}</span>mmol/L，最低血糖值<span>{$arr['min']}</span>mmol/L。
+					</p>
+				</div>
+				<div class="month_page">
+					1/6
+				</div>
+	        </div>
+	        <!-- 第二张 -->
+	        <div class="swiper-slide">
+	        	<div class="month02">
+	        		<p class="titleP">血糖值评估</p>
+	        		<ul>
+	        			<li><span class="color01">餐前偏低 </span><i class="presentBefore">血糖&lt;3.9</i></li>
+	        			<li><span class="color02">餐前偏高 </span><i>血糖6.1~7.0</i></li>
+	        			<li><span class="color03">餐前严重偏高 </span><i>血糖&gt;7.0</i></li>
+	        			<li><span class="color04">餐前正常 </span><i>血糖3.9 ~ 6.1</i></li>
+	        			<li><span class="color01">餐后偏低 </span><i class="persentAfter">血糖&lt;3.9</i></li>
+	        			<li><span class="color02">餐后偏高 </span><i>血糖7.8～11.1</i></li>
+	        			<li><span class="color03">餐后严重偏高 </span><i>血糖&gt;11.1</i></li>
+	        			<li style="border-bottom:0"><span class="color04">餐后正常 </span><i>血糖3.9～7.7</i></li>
+	        		</ul>
+	        		<div>您本月血糖值评估结果是餐前偏低，餐后偏高，管理情况不太理想。高血糖症状：心跳加快、口渴、厌食、皮肤干燥等<br />小益督促你勤俭血糖并适当用药，预防糖尿病足、糖尿病病眼等糖尿病并发症。</div>
+	        	</div>
+	        	<div class="month_page">
+					2/6
+				</div>
+	        </div>
+	        <!-- 第三张 -->
+	        <div class="swiper-slide">
+	        	<div class="month3">
+	        		<p class="titleP">您和小益的亲密接触</p>
+	        		<div class="times">共测量<br /><span>{$arr['count']}</span><br />次</div>
+	        		<p class="timeShow">您本月测量<span>{$arr['count']}</span>次，测量次数打败了<span>93%</span>的用户！</p>
+	        		<hr>
+	        		<ol>
+	        			<p>小贴士：</p>
+	        			<li>1、每天测量能更好的掌握血糖变化；</li>
+	        			<li>2、同时段的数据对比会更加科学，应继续保持；</li>
+	        		</ol>
+	        	</div>
+	        	<div class="month_page">
+					3/6
+				</div>
+	        </div>
+	        <!-- 第四张 -->
+	        <div class="swiper-slide">
+	        	<div class="month4">
+	        		<p class="titleP">走势分析</p>
+	        		<div class="colorInstruc">
+	        			<i></i>高血糖
+	        			<i></i>正常值
+	        			<i></i>低血糖
+	        		</div>
+	        		<!-- Echarts -->
+	        		<div id="mychart">        			
+	        		</div>
+	        		<script type="text/javascript">
+	        			// 基于准备好的dom，初始化echarts实例
+				        var myChart = echarts.init(document.getElementById('mychart'));
+				        // 指定图表的配置项和数据
+				        var option = {
+				            title: {},
+				            tooltip: { trigger: 'axis'},
+				            legend: {
+				            	// 
+				            	show:false
+				            },
+				            xAxis: {
+				                data: ["01/01","01/25"],
+				                textStyle:{
+						            fontSize: 20,
+						        	color: '#5a5a5a'
+						        }      
+				            },
+				            yAxis: {
+				            	 splitLine:{ 
+					                      show:false 
+					               },
+				            },
+				            series: [
+					            {
+					                name: '餐前血糖',
+					                type: 'bar',
+					                data: [3.4, 4],
+					                barWidth : 38,
+					                itemStyle: {   
+				                        //通常情况下：
+				                        normal:{  
+				        　　　　　　　　　　　　//每个柱子的颜色即为colorList数组里的每一项，如果柱子数目多于colorList的长度，则柱子颜色循环使用该数组
+				                            color: function (params){ 
+				                            	var index_color = params.value;
+			                                    if(index_color<3.9){
+			                                        return '#25dcbc';
+			                                    }else if(index_color>3.9&&index_color<6.1){
+			                                        return '#8aec47';
+			                                    }else{
+			                                    	return '#eab835';
+			                                    }
+				                            },
+				                        },
+				                    },
+					            },
+					            {
+					            	name: '餐后血糖',
+					                type: 'bar',
+					                data: [8, 12],
+					                barWidth : 38,
+					                itemStyle: {   
+				                        //通常情况下：
+				                        normal:{  
+				        　　　　　　　　　　　　//每个柱子的颜色即为colorList数组里的每一项，如果柱子数目多于colorList的长度，则柱子颜色循环使用该数组
+				                            color: function (params){ 
+				                            	var index_color = params.value;
+			                                    if(index_color<3.9){
+			                                        return '#25dcbc';
+			                                    }else if(index_color>3.9&&index_color<7.7){
+			                                        return '#8aec47';
+			                                    }else{
+			                                    	return '#eab835';
+			                                    }
+				                            }
+				                        },
+				                    },
+					            }
+
+				            ]
+				        };
+				        // 使用刚指定的配置项和数据显示图表。
+				        myChart.setOption(option);
+	        		</script>
+	        		<div class="month4Mean">本月您的血糖平均值为：<span>{$arr['avg']}</span>mmol/L ，高于/低于正常值<span>***</span>。</div>
+	        	</div>
+	        	<div class="month_page">
+					4/6
+				</div>
+	        </div>
+	        <!-- 第五张 -->
+	        <div class="swiper-slide">
+	        	<div class="month5">
+	        		<p class="titleP">月初的你VS月末的你</p>
+	        		<ul>
+	        			<li class="monthStart">月初测量：<span>2017-01-01 15:59:06</span></li>
+	        			<li class="monthEnd">月末测量：<span>2017-01-25 15:59:06</span></li>
+	        		</ul>
+	        		<ol>
+	        			<li>餐前<span class="colorGre">***</span>mmol/L<span class="colorYel">***</span>mmol/L<i class="dropImg"></i></li>
+	        			<li>餐后<span class="colorGre">***</span>mmol/L<span class="colorYel">***</span>mmol/L<i class="riseImg"></i></li>
+	        		</ol>
+	        	</div>
+	        	<div class="month_page">
+					5/6
+				</div>
+	        </div>
+	        <!-- 第六张 -->
+	        <div class="swiper-slide">
+				<div class="month6">
+	        		<img src="__PUBLIC__/img/month061.png" alt="">
+	        		<p class="month6_title"><span>2017年2月</span>，小益与您并肩进步</p>
+	        		<ul>
+	        			<p>立春：助养生发，激发生命源动力。</p>
+						<li>1、2月进入立春节气，气温变暖，仍多风寒。冬末春初，适宜早睡早起，以养阳敛阴，养肝护脾，合理搭配饮食，控制糖脂平衡；</li>
+						<li>2、立春饮食：宜辛甘发散，忌酸收之味。</li>
+					</ul>
+	        	</div>
+	        	<div class="month_page">
+					6/6
+				</div>
+	        </div>
+	    </div>
+	</div>
+	<script type="text/javascript" src="__PUBLIC__/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/js/month.js"></script>	
+	<script type="text/javascript" src="__PUBLIC__/js/swiper-3.3.1.min.js"></script>	
+	<script type="text/javascript">
+		var mySwiper = new Swiper('.swiper-container',{
+		loop : true,
+		})
+	</script>
+
+</body>
+</html>

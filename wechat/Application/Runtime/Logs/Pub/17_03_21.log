@@ -1,0 +1,1716 @@
+[ 2017-03-21T12:50:49+08:00 ] 123.151.42.50 /wechat/index.php/Pub/Suggest/beforeHighSerious?bloodGlu=7.8&time=2017-03-21%2007:32:23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-03-21T14:01:49+08:00 ] 1.202.98.253 /wechat/index.php/Pub/Suggest/beforeHighSerious?bloodGlu=7.6&time=2017-03-21%2011:24:40
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-03-21T14:02:28+08:00 ] 123.151.40.40 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s&headimgurl=http://wx.qlogo.cn/mmopen/GOC0e7uHd1l0IdMepMLRKJAR3L69Gd27vyHNU6xlX7fiazuEB4nbURfjTtjxqh8Bmvu95UzIHR2neXfrFyfDEuIdzN1ibITiaZib/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwH9LypSrQ_Nyxyto70TcO1s'  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-03-21T14:08:38+08:00 ] 1.202.98.253 /wechat/index.php/Pub/Suggest/afterHightSerious?bloodGlu=15.8&time=2017-03-21%2014:08:13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-03-21T14:08:48+08:00 ] 101.226.33.237 /wechat/index.php/Pub/Suggest/afterHightSerious?bloodGlu=15.8&time=2017-03-21%2014:08:13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010738s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-03-21T14:15:56+08:00 ] 111.132.118.145 /wechat/index.php/Pub/Index/index?openid=o4qGOwHsJZnYA3ovj-rLbbWOuFcc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwHsJZnYA3ovj-rLbbWOuFcc' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811186 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811186 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811186 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811186 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811186 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811186 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811186 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-03-21T14:22:01+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-03-21T14:22:05+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/health_report/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-03-21T14:25:19+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-03-21T14:26:53+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-03-21T14:28:13+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-03-21T14:28:46+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-03-21T14:36:18+08:00 ] 101.226.102.94 /wechat/index.php/Pub/Index/index?openid=o4qGOwKMfxxft9QJGUl8iPwxmUQ8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwKMfxxft9QJGUl8iPwxmUQ8' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-03-21T14:36:19+08:00 ] 101.226.102.94 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-03-21T14:36:35+08:00 ] 101.226.102.94 /wechat/index.php/Pub/Index/register?openid=o4qGOwKMfxxft9QJGUl8iPwxmUQ8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-03-21T14:51:56+08:00 ] 123.151.40.40 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s&headimgurl=http://wx.qlogo.cn/mmopen/GOC0e7uHd1l0IdMepMLRKJAR3L69Gd27vyHNU6xlX7fiazuEB4nbURfjTtjxqh8Bmvu95UzIHR2neXfrFyfDEuIdzN1ibITiaZib/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwH9LypSrQ_Nyxyto70TcO1s'  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-03-21T14:54:19+08:00 ] 123.151.138.100 /wechat/index.php/Pub/Index/index?openid=o4qGOwDPTFt7pqvSlI_OnaL8cLe4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwDPTFt7pqvSlI_OnaL8cLe4' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811247 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811247 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811247 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811247 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811247 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811247 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811247 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-03-21T15:01:18+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001778s ]
+
+[ 2017-03-21T15:01:23+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/carefor/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001388s ]
+
+[ 2017-03-21T15:01:24+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/resive/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+SQL: SELECT `devid` FROM `yk_user` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yk_user` WHERE `devid` = '100810781'  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001270s ]
+
+[ 2017-03-21T15:01:33+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/device/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001224s ]
+
+[ 2017-03-21T15:01:37+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/resive/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0009s ]
+SQL: SELECT `devid` FROM `yk_user` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yk_user` WHERE `devid` = '100810781'  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001158s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001224s ]
+
+[ 2017-03-21T15:01:41+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/img/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: SELECT `devid` FROM `yk_user` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001716s ]
+
+[ 2017-03-21T15:01:43+08:00 ] 180.153.206.20 /wechat/index.php/Pub/Index/device/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2017-03-21T15:01:45+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/handle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008926s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001266s ]
+
+[ 2017-03-21T15:01:55+08:00 ] 180.153.206.20 /wechat/index.php/Pub/Index/handle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2017-03-21T15:02:04+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009608s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2017-03-21T15:02:24+08:00 ] 111.161.52.28 /wechat/index.php/Pub/Index/device/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-03-21T15:02:28+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/question.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-03-21T15:02:32+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/handle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001093s ]
+
+[ 2017-03-21T15:02:36+08:00 ] 115.171.220.88 /wechat/index.php/Pub/Index/register?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001504s ]
+
+[ 2017-03-21T15:02:44+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/health_report/id/o4qGOwOce3cCmNr4qOKGIid1Cb2I.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-21T15:02:45+08:00 ] 101.226.33.237 /wechat/index.php/Pub/Index/register?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-03-21T15:03:27+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Suggest/afterNormal?bloodGlu=5.3&time=2017-03-20%2016:21:30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-03-21T15:04:09+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/index?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100810781 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-03-21T15:04:17+08:00 ] 111.161.52.28 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-03-21T15:04:52+08:00 ] 123.151.64.142 /wechat/index.php/Pub/Index/register?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8&from=singlemessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-03-21T15:05:52+08:00 ] 115.171.220.88 /wechat/index.php/Pub/Index/register?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8&from=singlemessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOnecLLzglhW4WfOhEL7XI8' LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: validate D:\wwwroot\test_ykzp_com\wechat\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wwwroot\test_ykzp_com\wechat\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `yk_register` (`openid`,`tel`,`user`,`sex`,`connection`,`province`,`city`,`area`,`addres`,`shop`) VALUES ('o4qGOwOnecLLzglhW4WfOhEL7XI8','13051122295','王志刚','男','自己','北京市','北京市','朝阳区','双井街道','2') [ RunTime:0.0043s ]
+
+[ 2017-03-21T15:05:54+08:00 ] 123.151.64.142 /wechat/index.php/Pub/Index/regis.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-03-21T15:06:03+08:00 ] 123.151.42.50 /wechat/index.php/Pub/Index/index?openid=o4qGOwDuJEHjeu4tBZFZAb0RYstA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwDuJEHjeu4tBZFZAb0RYstA' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811537 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-03-21T15:06:05+08:00 ] 111.161.52.28 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-03-21T15:07:18+08:00 ] 123.151.42.50 /wechat/index.php/Pub/Index/index?openid=o4qGOwDuJEHjeu4tBZFZAb0RYstA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwDuJEHjeu4tBZFZAb0RYstA' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811537 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-03-21T15:11:11+08:00 ] 123.151.42.48 /wechat/index.php/Pub/Index/index?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwOnecLLzglhW4WfOhEL7XI8' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811345 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811345 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811345 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811345 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811345 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811345 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811345 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-03-21T15:13:24+08:00 ] 113.58.235.117 /wechat/index.php/Pub/Index/index?openid=o4qGOwDuJEHjeu4tBZFZAb0RYstA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwDuJEHjeu4tBZFZAb0RYstA' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811537 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811537 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-03-21T15:33:02+08:00 ] 1.202.98.253 /wechat/index.php/Pub/Suggest/afterHightSerious?bloodGlu=15.8&time=2017-03-21%2014:08:13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-03-21T15:33:30+08:00 ] 1.202.98.253 /wechat/index.php/Pub/Index/index?openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811088 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-03-21T15:35:11+08:00 ] 1.202.98.253 /wechat/index.php/Pub/index/cartogram/openid/o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE `devid` = 100811088 AND ( `testTime` > '2017-03-21 00:00:00' AND `testTime` < '2017-03-21 23:59:59'  ) AND `bgState` = 2  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `yk_test` WHERE `devid` = 100811088 AND ( `testTime` > '2017-03-21 00:00:00' AND `testTime` < '2017-03-21 23:59:59'  ) AND `bgState` = 1  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 2  [ RunTime:0.0021s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 1  [ RunTime:0.0024s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE ( `testTime` > '2017-03-01' AND `testTime` < '2017-03-31'  ) AND `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `yk_test` WHERE ( `testTime` > '2017-03-15' AND `testTime` < '2017-03-21 15:35:10'  ) AND `devid` = 100811088  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `yk_test` WHERE ( `testTime` > '2017-01-01' AND `testTime` < '2017-03-21 15:35:10'  ) AND `devid` = 100811088 AND `bgState` = 2  [ RunTime:0.0023s ]
+SQL: SELECT * FROM `yk_test` WHERE ( `testTime` > '2017-01-01' AND `testTime` < '2017-03-21 15:35:10'  ) AND `devid` = 100811088 AND `bgState` = 1  [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-03-21T16:03:01+08:00 ] 125.39.57.36 /wechat/index.php/Pub/Suggest/afterHightSerious?bloodGlu=17.5&time=2017-03-21%2016:01:43
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-03-21T16:03:09+08:00 ] 123.151.42.46 /wechat/index.php/Pub/Index/index?openid=o4qGOwKX9EMxafPuo48GMTYo6ANc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwKX9EMxafPuo48GMTYo6ANc' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811088 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811088 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-03-21T16:04:35+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/index?openid=o4qGOwIa6mMhsUpr-vPLAx5FDW_M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwIa6mMhsUpr-vPLAx5FDW_M' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-03-21T16:04:35+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-03-21T16:04:45+08:00 ] 101.226.66.192 /wechat/index.php/Pub/Index/index?openid=o4qGOwIa6mMhsUpr-vPLAx5FDW_M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwIa6mMhsUpr-vPLAx5FDW_M' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-03-21T16:04:45+08:00 ] 101.226.66.192 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-03-21T16:04:58+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/index?openid=o4qGOwIa6mMhsUpr-vPLAx5FDW_M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwIa6mMhsUpr-vPLAx5FDW_M' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-03-21T16:04:58+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-03-21T16:06:15+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/index?openid=o4qGOwGkJxLaHbZvqYWlST8-1nwQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwGkJxLaHbZvqYWlST8-1nwQ' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-03-21T16:06:15+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-03-21T16:06:34+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/index?openid=o4qGOwGkJxLaHbZvqYWlST8-1nwQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwGkJxLaHbZvqYWlST8-1nwQ' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-03-21T16:06:35+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-03-21T16:06:46+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/index?openid=o4qGOwGkJxLaHbZvqYWlST8-1nwQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwGkJxLaHbZvqYWlST8-1nwQ' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-03-21T16:06:46+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2017-03-21T16:10:50+08:00 ] 123.151.176.198 /wechat/index.php/Pub/Index/register?openid=o4qGOwAp00YDbhoAQo6-02GVUoj0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-03-21T16:12:16+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/register?openid=o4qGOwAp00YDbhoAQo6-02GVUoj0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwAp00YDbhoAQo6-02GVUoj0' LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: validate D:\wwwroot\test_ykzp_com\wechat\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wwwroot\test_ykzp_com\wechat\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `yk_register` (`openid`,`tel`,`user`,`sex`,`connection`,`province`,`city`,`area`,`addres`,`shop`) VALUES ('o4qGOwAp00YDbhoAQo6-02GVUoj0','17131324305','李天放','女','妹妹','北京市','北京市','朝阳区','东四环中路78号','2') [ RunTime:0.0044s ]
+
+[ 2017-03-21T16:12:16+08:00 ] 123.151.176.198 /wechat/index.php/Pub/Index/regis.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-03-21T16:19:16+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Suggest/afterNormal?bloodGlu=6.9&time=2017-03-21%2016:17:49
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-03-21T16:19:21+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Suggest/afterNormal?bloodGlu=6.9&time=2017-03-21%2016:17:49
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-03-21T16:20:41+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Suggest/afterNormal?bloodGlu=6.9&time=2017-03-21%2016:17:49
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-03-21T16:20:51+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Suggest/afterNormal?bloodGlu=5.7&time=2017-03-21%2016:17:06
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009199s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-03-21T16:49:13+08:00 ] 123.151.42.48 /wechat/index.php/Pub/Index/register?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8&from=singlemessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-03-21T16:49:22+08:00 ] 180.163.1.46 /wechat/index.php/Pub/Index/register?openid=o4qGOwOnecLLzglhW4WfOhEL7XI8&from=singlemessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SELECT * FROM `yk_shop`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-03-21T17:05:32+08:00 ] 210.14.158.117 /wechat/index.php/Pub/Index/index?openid=o4qGOwBLMMLXXrNQ7JJsBm9vnO28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwBLMMLXXrNQ7JJsBm9vnO28' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811427 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-03-21T17:08:48+08:00 ] 223.104.3.224 /wechat/index.php/Pub/Index/index?openid=o4qGOwG3OFP6SUEIYgeoPdHWqJN0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwG3OFP6SUEIYgeoPdHWqJN0' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-03-21T17:08:49+08:00 ] 223.104.3.224 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-03-21T17:08:58+08:00 ] 140.207.185.112 /wechat/index.php/Pub/Index/index?openid=o4qGOwG3OFP6SUEIYgeoPdHWqJN0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwG3OFP6SUEIYgeoPdHWqJN0' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-03-21T17:08:58+08:00 ] 140.207.185.112 /wechat/index.php/Pub/Index/err.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-03-21T17:23:11+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Suggest/beforeNormal?bloodGlu=5.6&time=2017-03-21%2010:32:22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-03-21T17:24:03+08:00 ] 123.206.57.17 /wechat/index.php/Pub/Suggest/beforeNormal?bloodGlu=5.6&time=2017-03-21%2010:32:22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-03-21T17:40:34+08:00 ] 115.171.146.36 /wechat/index.php/Pub/Index/index?openid=o4qGOwBLMMLXXrNQ7JJsBm9vnO28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwBLMMLXXrNQ7JJsBm9vnO28' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811427 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-03-21T17:40:49+08:00 ] 101.226.65.108 /wechat/index.php/Pub/Index/index?openid=o4qGOwBLMMLXXrNQ7JJsBm9vnO28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwBLMMLXXrNQ7JJsBm9vnO28' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811427 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-03-21T21:40:05+08:00 ] 123.151.64.142 /wechat/index.php/Pub/Suggest/beforeHigh?bloodGlu=6.5&time=2017-03-21%2007:25:04
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [2048] Declaration of Pub\Controller\SuggestController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wwwroot\test_ykzp_com\wechat\Application\Pub\Controller\SuggestController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2017-03-21T21:43:31+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/myhome?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I&headimgurl=http://wx.qlogo.cn/mmopen/66le6dqUInN2vr5tf0vOLTnNAlFISnvg2HvTIIT7LRXEsvcnc3fPLN5DEvomAPT0afmFiaaEa0TCuTicKq88nS4u59MiagI11R5/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SELECT * FROM `yk_register` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I'  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010403s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-03-21T21:43:48+08:00 ] 123.151.38.94 /wechat/index.php/Pub/Index/index?openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwOce3cCmNr4qOKGIid1Cb2I' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100810781 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100810781 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-03-21T22:33:06+08:00 ] 111.192.137.102 /wechat/index.php/Pub/Index/index?openid=o4qGOwBLMMLXXrNQ7JJsBm9vnO28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwBLMMLXXrNQ7JJsBm9vnO28' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yk_test` WHERE ( devid=100811427 ) ORDER BY time DESC LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 2 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT MAX(bloodGlu) AS tp_max FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT MIN(bloodGlu) AS tp_min FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT AVG(bloodGlu) AS tp_avg FROM `yk_test` WHERE `devid` = 100811427 AND `bgState` = 1 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
