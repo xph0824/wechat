@@ -39,20 +39,9 @@ class IndexController extends Controller {
         //1.获取到微信推送过来post数据（xml格式）
         $postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
         //2.处理消息类型，并设置回复类型和内容
-        /*<xml>
-<ToUserName><![CDATA[toUser]]></ToUserName>
-<FromUserName><![CDATA[FromUser]]></FromUserName>
-<CreateTime>123456789</CreateTime>
-<MsgType><![CDATA[event]]></MsgType>
-<Event><![CDATA[subscribe]]></Event>
-</xml>*/
+
         $postObj = simplexml_load_string( $postArr );
-        //$postObj->ToUserName = '';
-        //$postObj->FromUserName = '';
-        //$postObj->CreateTime = '';
-        //$postObj->MsgType = '';
-        //$postObj->Event = '';
-        // gh_e79a177814ed
+
         //判断该数据包是否是订阅的事件推送
         if( strtolower( $postObj->MsgType) == 'event'){
             //如果是关注 subscribe 事件
@@ -213,7 +202,7 @@ class IndexController extends Controller {
 
 
     //获取微信服务器IP地址
-    function  getWxServerIp(){
+    public function  getWxServerIp(){
         $accessToken ="Y7cYto0UvJz1U-9NpN04lhQuBkO5BO7Sim6hCZ0GkZlLLfisnvXLjg6VTX_v7veESGX24zAIlu31GD5YXjQFWd5AYXkQTv5a1iGIwk9oxL4gPeWC3fCciWTp2e5ftVZvUXFcAHAHKS";
         $url = "https://api.weixin.qq.com/cgi-bin/getcallbackip?access_token=".$accessToken;
         $ch  =curl_init();
@@ -239,8 +228,8 @@ class IndexController extends Controller {
 		$data = json_decode(file_get_contents($tokenFile));
 		if ($data->expire_time < time() or !$data->expire_time) {
 			echo '重新获取的';
-			$AppId = 'wx531371cf0425661d';
-			$AppSecret = '142e64f0d55e79af7e3db6015938ae8d';
+			$AppId = 'wx531371cf0425661d***';
+			$AppSecret = '142e64f0d55e79af7e3db6015938ae8d***';
 			$url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=".$AppId."&secret=".$AppSecret;
 			$res = $this->http_curl($url,'get','json');
 			$access_token = $res['access_token'];
@@ -327,7 +316,7 @@ class IndexController extends Controller {
     public function getDetailInfo(){
         //1.获取code
         //由于变量是url,而这个变量还需要放到url中,故转码
-		$appid = 'wx531371cf0425661d';
+		$appid = 'wx531371cf0425661d***';
         $redirect_uri = urlencode('http://test.ykzp.com/wechat/index.php/Home/index/getUserInfo');
         $url = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=' . $appid . '&redirect_uri=' . $redirect_uri . '&response_type=code&scope=snsapi_userinfo&state=1#wechat_redirect';
 		var_dump($url);die;
@@ -338,8 +327,8 @@ class IndexController extends Controller {
 	//获取用户详细信息
     public function getUserInfo(){
         header('content-type:text/html;charset=utf-8');
-		$appid = 'wx531371cf0425661d';
-		$appsecret = '142e64f0d55e79af7e3db6015938ae8d';
+		$appid = 'wx531371cf0425661d***';
+		$appsecret = '142e64f0d55e79af7e3db6015938ae8d***';
         //2.获取网页授权access_token
         $code = $_GET['code'];
 		$state = $_GET['state'];
@@ -388,7 +377,7 @@ class IndexController extends Controller {
         $access_token= $this->getWxAccessToken();
         $url ='https://api.weixin.qq.com/cgi-bin/menu/create?access_token='.$access_token;	
 		
-		$appid = 'wx531371cf0425661d';
+		$appid = 'wx531371cf0425661d***';
         $redirect_uri = urlencode('http://test.ykzp.com/wechat/index.php/Home/index/getUserInfo');
 		
 		$postArr=array(
@@ -411,6 +400,11 @@ class IndexController extends Controller {
 							'type'=>'view',
 							'url'=>'http://www8.53kf.com/m.php?cid=72052991',
                         ),//第二个二级菜单
+						 array(
+                            'name'=>urlencode('风险评估'),
+							'type'=>'view',
+							'url'=>'http://test.ykzp.com/wechat/index.php/Pub/Index/sular_text',
+                        ),
                     )
                 ),
                 array(
@@ -424,7 +418,7 @@ class IndexController extends Controller {
 						array(
                             'name'=>urlencode('同仁堂益平茶'),
 							'type'=>'view',
-							'url'=>'https://h5.youzan.com/v2/showcase/mpnews?alias=YZ0qsEbghz',
+							'url'=>'http://mp.weixin.qq.com/s/fE4nzuAMcci3_k4F3Jdfhw',
                         ),
                         array(
                             'name'=>urlencode('无糖食品'),

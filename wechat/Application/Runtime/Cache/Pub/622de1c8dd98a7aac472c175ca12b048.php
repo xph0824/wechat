@@ -138,9 +138,9 @@
 				        　　　　　　　　　　　　//每个柱子的颜色即为colorList数组里的每一项，如果柱子数目多于colorList的长度，则柱子颜色循环使用该数组
 				                            color: function (params){ 
 				                            	var index_color = params.value;
-			                                    if(index_color<6.7){
+			                                    if(index_color<3.9){
 			                                        return '#25dcbc';
-			                                    }else if(index_color>6.7&&index_color<8.9){
+			                                    }else if(index_color>3.9&&index_color<7.7){
 			                                        return '#8aec47';
 			                                    }else{
 			                                    	return '#eab835';

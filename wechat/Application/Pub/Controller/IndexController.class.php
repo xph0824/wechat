@@ -587,7 +587,7 @@ class IndexController extends Controller {
 		$this->display();
 	}
 
-	public function gyyy(){
+	public function sular_text(){
 		$this->display();
 	}
 	

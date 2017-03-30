@@ -1,0 +1,2332 @@
+[ 2017-03-27T11:21:15+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=8cc904eb4191cf75d7f231cf7bb819ac13399221&timestamp=1490584875&nonce=1513660763&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-03-27T11:21:17+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=735ec89cb7b6e471ba3e77abc3be30905872bf76&timestamp=1490584877&nonce=1089168154&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001264s ]
+
+[ 2017-03-27T11:21:22+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=33314e7025062f217f1103ce4868bdf6fecc6f8c&timestamp=1490584882&nonce=526408620&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2017-03-27T11:21:29+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=9b980da0ce6e9124cbaae738b37bebb9930da04c&timestamp=1490584887&nonce=1439201554&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `yk_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwFGvpJ89pstkfJKj1Du7HHc' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-03-27T11:21:36+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=9c1578303b6037ecee0293837b3dc6d59687353c&timestamp=1490584896&nonce=1180572987&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-03-27T11:21:43+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=ac97a49bc563f7efa7e3c89fd87957e40a1fe28d&timestamp=1490584903&nonce=1828713528&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-03-27T11:21:50+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=213064832832672c82c8e00c882b43f2c08aae5e&timestamp=1490584908&nonce=540069425&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwFGvpJ89pstkfJKj1Du7HHc' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-03-27T11:24:02+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-03-27T11:24:02+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=818da30854e739119ee2b123d0f5060a4afdb389&timestamp=1490585042&nonce=368315230&openid=o4qGOwDGA-hr8UIcvlISnTW_0g90
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001071s ]
+
+[ 2017-03-27T11:27:09+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=aee8011ffdc48be5ee62bbe9d0ca2966bdeffccc&timestamp=1490585229&nonce=1433643290&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-03-27T11:28:38+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=e4d96598ace5a2fb5966a8239d31cff98271cbbd&timestamp=1490585318&nonce=2002508430&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-03-27T11:30:12+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=5aaaddc5e798146204c14bd1e38566ef485b8238&timestamp=1490585412&nonce=295582644&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-03-27T11:31:17+08:00 ] 101.226.62.16 /wechat/index.php/Home/index?signature=5f551bfd41f781bf891775dbf6c64e33afe4107d&timestamp=1490585476&nonce=535832301&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-03-27T11:45:34+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=c0171c7b3543935e8278795583891a65118d7b08&timestamp=1490586334&nonce=1063230546&openid=o4qGOwNXLXjr4JFOksUkGXxAVxSk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001185s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=17ed8ddba9ee22658800121151879e63649bcce6&timestamp=1490586335&nonce=435653021&openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=b62c3d07fa07591a643230bd9a14f5691d84c797&timestamp=1490586335&nonce=1644928566&openid=o4qGOwCnEnSphuY52VTXu3FkFSoM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-03-27T11:45:35+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=46a4288af33cf26eee40668ea0c9fe8c90a09118&timestamp=1490586335&nonce=1445892626&openid=o4qGOwKX9EMxafPuo48GMTYo6ANc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000942s ]
+
+[ 2017-03-27T11:48:14+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=7f4d222b1e382b0b085ca9dfd7498fbfdf1011cb&timestamp=1490586494&nonce=58938707&openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-03-27T11:48:15+08:00 ] 1.202.97.113 /wechat/index.php/Home/index/getUserInfo?code=021Kibta12xSZS1qeNua1mR8ta1Kibt5&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001008s ]
+
+[ 2017-03-27T11:49:07+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=0521eca36a1d2215432833620b9af41312a779c7&timestamp=1490586547&nonce=661170025&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-03-27T11:49:09+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=170003d0a5a1662c5cc5b73e8c367453e94a3d7e&timestamp=1490586549&nonce=116547915&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-03-27T11:49:09+08:00 ] 210.14.158.117 /wechat/index.php/Home/index/getUserInfo?code=0516U4hT0x5HBU1x5OfT0eMdhT06U4hc&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-03-27T11:49:13+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=75f659165ffea5a376da04c3fe8613e1fa28cf22&timestamp=1490586553&nonce=833955127&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-03-27T11:49:13+08:00 ] 210.14.158.117 /wechat/index.php/Home/index/getUserInfo?code=0110r46p0vKgqr1dob7p0gGV5p00r460&state=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-03-27T11:55:20+08:00 ] 101.226.62.81 /wechat/index.php/Home/index?signature=8dee99ef284aca033b1783ae49c29d3583a61477&timestamp=1490586919&nonce=2116564238&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-03-27T11:57:33+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=e8ffcdd208d9f700c8f6f3976eb36cc65a3feb7b&timestamp=1490587052&nonce=233806245&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-03-27T12:00:36+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2017-03-27T12:00:37+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=0465a476d64528df3995907da16f5cc7b716c34c&timestamp=1490587236&nonce=420874577&openid=o4qGOwADsj54YOZhL8co9BBPBXBM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-03-27T12:08:34+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2017-03-27T12:08:34+08:00 ] 101.226.233.149 /wechat/index.php/Home/index?signature=ad9ceb441ee6bbc13d6146ff07e8e8c98041a8c8&timestamp=1490587714&nonce=883973965&openid=o4qGOwLOBLQ2Lds7Q3F214k82J4o
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-03-27T12:09:02+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=745d7b15a3eb413d9469d50be695b6a62114bb1a&timestamp=1490587742&nonce=839919920&openid=o4qGOwNXLXjr4JFOksUkGXxAVxSk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000938s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=9d96414bf04497584a21aa275ef1ad301068e8c4&timestamp=1490587743&nonce=1155327464&openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=699b7ba8b155afddda4d83c5a3add7c3cc3ad6c5&timestamp=1490587743&nonce=451232335&openid=o4qGOwCnEnSphuY52VTXu3FkFSoM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2017-03-27T12:09:03+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=1a43913960020b59f15846674c511ccfd88357e8&timestamp=1490587743&nonce=1183068633&openid=o4qGOwKX9EMxafPuo48GMTYo6ANc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2017-03-27T12:09:46+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=3e1c45ee3e792df9405a3456c7df9b9b537cdee1&timestamp=1490587786&nonce=1071672336&openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2017-03-27T12:09:47+08:00 ] 1.202.97.113 /wechat/index.php/Home/index/getUserInfo?code=001XcqDf0R4RDy1iFUFf0Xn4Df0XcqD0&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2017-03-27T12:10:12+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=d471f55fb4cc1f605f83eb9e4b0a6f0547d5e1b9&timestamp=1490587812&nonce=646120598&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-03-27T12:11:21+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=df215c941eb6002d58c79b08eb05428ff8e17006&timestamp=1490587881&nonce=1059705517&openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000917s ]
+
+[ 2017-03-27T12:11:22+08:00 ] 1.202.97.113 /wechat/index.php/Home/index/getUserInfo?code=051l9QJ71GSztR1tIUH71RKSJ71l9QJB&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-03-27T12:24:42+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=d894de904124f7b9426f69ee5544097558a192d1&timestamp=1490588682&nonce=323955654&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2017-03-27T12:34:10+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=c8130a04787dc9959851475a3bca57dca1d30686&timestamp=1490589250&nonce=2125970028&openid=o4qGOwNFxPqjIbOdpmAnwvTZ4Ap0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-03-27T12:34:11+08:00 ] 117.72.168.49 /wechat/index.php/Home/index/getUserInfo?code=041udjhE0IfXmg2UqhiE0GubhE0udjhr&state=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-03-27T12:35:05+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=f2a5cc5a8f25fb34f1fdd998bc6994f4f9eb3743&timestamp=1490589305&nonce=1384745137&openid=o4qGOwNFxPqjIbOdpmAnwvTZ4Ap0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-03-27T12:35:06+08:00 ] 117.72.168.49 /wechat/index.php/Home/index/getUserInfo?code=051kKzXS0VILVU1kZKZS0SlrXS0kKzXl&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-03-27T12:35:15+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=5988a75052ff2da48ab92461428069de94c49481&timestamp=1490589315&nonce=936108869&openid=o4qGOwNFxPqjIbOdpmAnwvTZ4Ap0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-03-27T12:35:37+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=4d649928e5fe7b67f6246e8fe29c8fe2fabfa0e0&timestamp=1490589337&nonce=1376269934&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-03-27T12:35:43+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=e90dc6463e3744d7e03afcc998284cc5726240af&timestamp=1490589343&nonce=720065443&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-03-27T12:35:43+08:00 ] 123.151.38.94 /wechat/index.php/Home/index/getUserInfo?code=021Di66e1EmwDv0zEG6e1Ir66e1Di66U&state=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-03-27T12:40:19+08:00 ] 101.226.103.69 /wechat/index.php/Home/index?signature=d12b56bca4cf4cd6c15505b923f6f81ecfd411e5&timestamp=1490589619&nonce=565227384&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-03-27T12:40:20+08:00 ] 123.151.38.94 /wechat/index.php/Home/index/getUserInfo?code=031B2hwF1Qplu40jNOuF1IhjwF1B2hwQ&state=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001095s ]
+
+[ 2017-03-27T12:40:33+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=980369dd5c46921861d7b2f7c06aa05ed2109737&timestamp=1490589633&nonce=231130374&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-03-27T12:49:29+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=b390cbb1974c7e131da5de4000c1550a986c6855&timestamp=1490590169&nonce=2120218596&openid=o4qGOwJEVshl0ZGC2iHNBt4przQQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-03-27T12:49:31+08:00 ] 123.151.138.100 /wechat/index.php/Home/index/getUserInfo?code=041GUDel1atrYj0VLydl1TPIel1GUDeJ&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001097s ]
+
+[ 2017-03-27T13:32:44+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=2be316ec76beb263b2280d73e5c0160eb232e618&timestamp=1490592761&nonce=1473450189&openid=o4qGOwCOFgCMsNSStwLFnYWEPi5M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwCOFgCMsNSStwLFnYWEPi5M' LIMIT 1   [ RunTime:0.0009s ]
+SQL: INSERT INTO `yk_user` (`openid`,`nickname`,`city`,`province`,`country`,`subscribe_time`,`devid`) VALUES ('o4qGOwCOFgCMsNSStwLFnYWEPi5M','猴子','安庆','安徽','中国','1490592761','100811305') [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-03-27T13:47:41+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-03-27T13:47:41+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=2af03df3bc26d9bd83fd6d32729460d3220ff74e&timestamp=1490593661&nonce=945203412&openid=o4qGOwOCfcWOWCobmvCOFcSFgzAw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-03-27T14:05:04+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=0e0fb63c359e26081466b03b22933b48b9678b68&timestamp=1490594703&nonce=1645481297&openid=o4qGOwCnEnSphuY52VTXu3FkFSoM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=9fe6ad40d77e817b02b91ca27e8432cb97a950c0&timestamp=1490596024&nonce=87413393&openid=o4qGOwNXLXjr4JFOksUkGXxAVxSk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=40d0930cafa1501b389cdba07973d512b547d87f&timestamp=1490596024&nonce=2088084287&openid=o4qGOwB9JQZ9U_EVZjRQ8q3QRJ3s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=416ef26fae0a7180a36a2e0661a2bf52893ee1f9&timestamp=1490596024&nonce=403050184&openid=o4qGOwCnEnSphuY52VTXu3FkFSoM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2017-03-27T14:27:04+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-03-27T14:27:05+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=366616df1b7879c192883e332ab0adaf67593055&timestamp=1490596024&nonce=1641882131&openid=o4qGOwKX9EMxafPuo48GMTYo6ANc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-03-27T14:28:21+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2017-03-27T14:28:21+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=ff7e5026377774463336eb194da2e6fdb90038fa&timestamp=1490596101&nonce=1158469096&openid=o4qGOwDyYTMorpiQ0JdpP2pBbVdY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-03-27T14:32:39+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-03-27T14:32:39+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=a07de3187eed9522d728c3b211f3e2088b3d2857&timestamp=1490596359&nonce=927377969&openid=o4qGOwE8v_HluANhQxBsaPUgQWWI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-03-27T14:33:50+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=d57406deb8abb76e68f886ee2f02fbd419dbe1de&timestamp=1490596430&nonce=500988051&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-03-27T14:36:58+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=1eff91dfe9f6c01d59a645f56ec60bad6cace546&timestamp=1490596616&nonce=1624809158&openid=o4qGOwFKDM43xunkRlHJK4-dYhhs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwFKDM43xunkRlHJK4-dYhhs' LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `yk_user` (`openid`,`nickname`,`city`,`province`,`country`,`subscribe_time`,`devid`) VALUES ('o4qGOwFKDM43xunkRlHJK4-dYhhs','郭景云','','','','1490596616','100811390') [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000969s ]
+
+[ 2017-03-27T14:41:51+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2017-03-27T14:41:51+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=a3af7dd21cde579c4f6dbe2fd1c66219bda5c1b9&timestamp=1490596911&nonce=2051990878&openid=o4qGOwFKDM43xunkRlHJK4-dYhhs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-03-27T14:42:41+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=d8ab35be865fc76f30b8e1d45fbcf10d96d9ad15&timestamp=1490596961&nonce=1114282471&openid=o4qGOwFKDM43xunkRlHJK4-dYhhs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-03-27T14:42:42+08:00 ] 123.151.42.50 /wechat/index.php/Home/index/getUserInfo?code=041T7VOM0OzOB52sa4MM0MgXOM0T7VOY&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-03-27T14:56:50+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2017-03-27T14:56:50+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=bffe9e880efc0f309e32063f5febee1031b7fbd5&timestamp=1490597810&nonce=1235336700&openid=o4qGOwADsj54YOZhL8co9BBPBXBM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-03-27T14:59:58+08:00 ] 101.226.233.145 /wechat/index.php/Home/index?signature=85f777bfd1b0c3abfd671cabfe3755d7b15daa58&timestamp=1490597997&nonce=1699003616&openid=o4qGOwFK43bVNdkcWxMVYE8s-5J0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-03-27T15:01:17+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=1ee435b1cd440a30b7b387ba8a921cbc6fdfb8c3&timestamp=1490598077&nonce=819916810&openid=o4qGOwN78mDV0GavpHAMBpisebgo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-03-27T15:03:23+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2017-03-27T15:03:23+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=1ce79d0f06372dfa928d4d6784476e9809db58ea&timestamp=1490598203&nonce=749492419&openid=o4qGOwDoRc897FkRqzzKuXSOf56w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-03-27T15:11:12+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=c59926dd261a7850ee66733873119a133df0841b&timestamp=1490598672&nonce=1622796686&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001105s ]
+
+[ 2017-03-27T15:11:21+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=37d9d2181984a472ef5453a7770811741d60373a&timestamp=1490598680&nonce=1176977894&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2017-03-27T15:19:06+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=45d599898c3a8af93469aef382feb6707898755b&timestamp=1490599143&nonce=1138288154&openid=o4qGOwJGGtL2aR0zZEbjTInItk6A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+SQL: SELECT * FROM `yk_user` WHERE `openid` = 'o4qGOwJGGtL2aR0zZEbjTInItk6A' LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `yk_user` (`openid`,`nickname`,`city`,`province`,`country`,`subscribe_time`,`devid`) VALUES ('o4qGOwJGGtL2aR0zZEbjTInItk6A','YWG','','','','1490599143','100811498') [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-03-27T15:22:09+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=51c1610979182a7fc6b6b528eff7bbdfdd648dbf&timestamp=1490599329&nonce=1851676278&openid=o4qGOwEhnyPmYxYS7uQTUuORNUP4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-03-27T15:22:33+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=5f9faa54052da8a9cb6c8f562016827064d2f1f9&timestamp=1490599353&nonce=255621010&openid=o4qGOwJGGtL2aR0zZEbjTInItk6A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-03-27T15:22:33+08:00 ] 1.202.97.113 /wechat/index.php/Home/index/getUserInfo?code=021NAMDD1Gday10UJFDD1tEPDD1NAMDE&state=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+
+[ 2017-03-27T15:41:23+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=f715ee4b768db9f039fb3778cd321c65e1148c2c&timestamp=1490600483&nonce=1396095679&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-03-27T15:53:33+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=cd90d97a2628cca3b4d4ed2bab529a410ec930a8&timestamp=1490601213&nonce=341179285&openid=o4qGOwNlh0GwvNWAZbNV95fPghSk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-03-27T16:09:12+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=908027e5cf5bce0cfa9ec408eccad2a922408686&timestamp=1490602152&nonce=438327509&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2017-03-27T16:10:16+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=29c064346adbe54d4df1987086f216a5ff091a81&timestamp=1490602216&nonce=606982763&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-03-27T16:18:10+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=f492ae97eaf8b1dacb80755950c79ab189be85e5&timestamp=1490602690&nonce=1267692736&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2017-03-27T16:18:15+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001638s ]
+
+[ 2017-03-27T16:18:15+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=8f835cf01b20e2bd933b66a2a3195bee97d6cb1a&timestamp=1490602695&nonce=353204591&openid=o4qGOwCqysg370RIySI96EGDpgHA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001461s ]
+
+[ 2017-03-27T16:37:16+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=c43d1ffce12db4d5a06ad4e06ce465a90160a469&timestamp=1490603835&nonce=936270838&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-03-27T16:37:47+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=a5a206c3193c68ae7c67ccf9f93e1fae70ad77e6&timestamp=1490603867&nonce=1523202472&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-03-27T16:40:54+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=a9551468bf89748d20f16e1905116ce33a3db36d&timestamp=1490604054&nonce=1573276343&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2017-03-27T16:41:41+08:00 ] 101.226.62.16 /wechat/index.php/Home/index?signature=9f4d1ac3206fc2d81bd379844aea8c7aea9d3125&timestamp=1490604101&nonce=1475951096&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-03-27T16:43:30+08:00 ] 101.226.62.17 /wechat/index.php/Home/index?signature=9a3bd4c36d6df5e6b0b5f502db2d2426db284feb&timestamp=1490604210&nonce=1154197580&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-03-27T16:46:20+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=2e0165a9e31a41f7d85411ace0a59905b915795f&timestamp=1490604380&nonce=1210071256&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2017-03-27T16:47:03+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=bacaa80702f0f0547f0906e5701e991851fb4a92&timestamp=1490604423&nonce=1878286985&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2017-03-27T16:47:33+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=3218458a83047ecc019014e12ae102f3d08919c8&timestamp=1490604453&nonce=1154348200&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-03-27T16:48:43+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=092a2d3a94f364a7a82545ddb35867b05b3cfe8f&timestamp=1490604522&nonce=1578800689&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-03-27T16:51:51+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=2bc2fa5c77684f84e09dfeacc0a7bfda7f591673&timestamp=1490604711&nonce=1731318694&openid=o4qGOwFrvIfgLeL8O-SLcWAqr7gA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-03-27T16:52:50+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-03-27T16:52:50+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=119c1e0050864a84d705b54c163244d9a8cc9139&timestamp=1490604770&nonce=1423902836&openid=o4qGOwArk_JpCLwGyfGluM85yyMI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-03-27T16:53:03+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=5cd3c49f6a61a0fb1e425a72308d433e2d879c0c&timestamp=1490604783&nonce=1329983002&openid=o4qGOwBxrVWrJ5JV4qWUh8W_0eWE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001174s ]
+
+[ 2017-03-27T16:53:05+08:00 ] 125.39.210.27 /wechat/index.php/Home/index/getUserInfo?code=0115mMxn0v7GJo1dpAyn04WNxn05mMxc&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2017-03-27T16:54:35+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=59c999eb2fdda724832835658ea67217ee1e5c00&timestamp=1490604875&nonce=1461130633&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2017-03-27T16:55:22+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=8ffb2f6460ec50fcc0dc8a7027d7d57239c819a5&timestamp=1490604922&nonce=1502833505&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-03-27T16:55:23+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=f80789e98c474eb9b7ee323eb060bd0e62a21955&timestamp=1490604922&nonce=72612373&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-03-27T16:55:40+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=3dcd5cb21b9283da35152702f9be80ff72264c05&timestamp=1490604940&nonce=1794962051&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-03-27T16:56:57+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=92e8e2abf941d535710ba774e117d28912f49325&timestamp=1490605016&nonce=1977741518&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-03-27T16:58:09+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=97e12d48e6d5863c8145c9e33a1a8e886f1e84de&timestamp=1490605089&nonce=13096232&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-03-27T16:58:19+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=7f952cf1f724da46b38be51d97abf8a775beb722&timestamp=1490605099&nonce=1223144878&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-03-27T16:58:23+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=b611b456baef2a41489b86f1fde3f055e796415f&timestamp=1490605102&nonce=1770978177&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-03-27T16:59:33+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=240a848be8732f86f8e5ffe607c1afc8369a73ba&timestamp=1490605173&nonce=2074391397&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-03-27T17:00:52+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=904b9a80a9ab99f018c9752e3bfca21e191a055e&timestamp=1490605251&nonce=451680611&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-03-27T17:00:59+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=982241726f399a9ff4b97d158abe17c0f1602f73&timestamp=1490605259&nonce=265751683&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-03-27T17:00:59+08:00 ] 123.151.38.94 /wechat/index.php/Home/index/getUserInfo?code=051XM3Kw0gUPgf1RvGJw0OdZJw0XM3K-&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2017-03-27T17:01:01+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=f44f99c20a9dd4a4465bec9649c3925a0d50eaf8&timestamp=1490605261&nonce=2025791905&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000747s ]
+
+[ 2017-03-27T17:01:58+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=7c6cf0247496abaa453ecdd625a7ebf37825e0b7&timestamp=1490605318&nonce=1930653568&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-03-27T17:02:19+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=80639f0f86404d2358b4f1b356f06cacbca556aa&timestamp=1490605338&nonce=1091091875&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2017-03-27T17:02:23+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=d5a3e41275e14c11f92604270c787a49bb980bae&timestamp=1490605343&nonce=306693309&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000747s ]
+
+[ 2017-03-27T17:03:02+08:00 ] 101.226.103.71 /wechat/index.php/Home/index?signature=15df9d4ec262eb1fc51bc8120f8d36c5fe675bfe&timestamp=1490605382&nonce=242992799&openid=o4qGOwOce3cCmNr4qOKGIid1Cb2I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-03-27T17:03:33+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=cf5269666781e97d816b27bbef5fdb59b332c042&timestamp=1490605412&nonce=1113029651&openid=o4qGOwFGvpJ89pstkfJKj1Du7HHc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-03-27T17:07:51+08:00 ] 101.226.62.15 /wechat/index.php/Home/index?signature=16fea17dcff862aff3e724680d7fc7a934b2b669&timestamp=1490605671&nonce=1653771043&openid=o4qGOwH9LypSrQ_Nyxyto70TcO1s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-03-27T17:07:54+08:00 ] 101.226.62.16 /wechat/index.php/Home/index?signature=70c0a990023d24d5b0dfa8aa943798751ecf62ff&timestamp=1490605674&nonce=1338087630&openid=o4qGOwEuFCDnBezcHYQgkbtP_v70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001034s ]
+
+[ 2017-03-27T18:43:03+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=cee70a6d66aa70193c21009125cb9692127a4b39&timestamp=1490611383&nonce=110660485&openid=o4qGOwCOFgCMsNSStwLFnYWEPi5M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-03-27T18:43:04+08:00 ] 123.151.139.155 /wechat/index.php/Home/index/getUserInfo?code=011xXT7m1qx8il0ogQ5m1RPW7m1xXT73&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-03-27T19:02:03+08:00 ] 123.151.42.47 /wechat/index.php/Home/index/getUserInfo?code=031IP1d213avnL13YHd21W30d21IP1dW&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-03-27T19:23:18+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=b1bf2c3622c6830c8bcbe63538e4833d5af7fe6d&timestamp=1490613798&nonce=1763271698&openid=o4qGOwP_JfeaXgktBm5jqIxc3gv4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-03-27T19:23:21+08:00 ] 123.151.12.152 /wechat/index.php/Home/index/getUserInfo?code=021ai05R1vhnQ71PSa6R1D6K4R1ai05G&state=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-03-27T19:23:38+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=0e86dc8912670f914839773c2ddedb4cb995861c&timestamp=1490613818&nonce=534842267&openid=o4qGOwP_JfeaXgktBm5jqIxc3gv4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-03-27T19:45:01+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-03-27T19:45:01+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=d921610b3f009b934b9f0d83e599df4835d16811&timestamp=1490615101&nonce=297748222&openid=o4qGOwEL_Dj-NBDYnD1IgRU-PlC0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2017-03-27T19:45:01+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-03-27T19:45:02+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=6a5b6f0c9e9b54f10267af73a307ff6b41d3d7e6&timestamp=1490615101&nonce=958640270&openid=o4qGOwHxxJFOYyEZkTo49sjVGCJg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-03-27T19:59:36+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001268s ]
+
+[ 2017-03-27T19:59:36+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=24a3af929c99f1003bf3942b50aacaad5dc8d58a&timestamp=1490615976&nonce=675838491&openid=o4qGOwNFxPqjIbOdpmAnwvTZ4Ap0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-03-27T20:09:07+08:00 ] 101.226.233.153 /wechat/index.php/Home/index?signature=287fff20c1e271647f6eec2e37f81257fd022e68&timestamp=1490616546&nonce=616020092&openid=o4qGOwNFxPqjIbOdpmAnwvTZ4Ap0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-03-27T20:09:08+08:00 ] 117.72.168.49 /wechat/index.php/Home/index/getUserInfo?code=041nBeod0y2Qjw1QJ9od0nVmod0nBeos&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-03-27T20:39:06+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2017-03-27T20:39:06+08:00 ] 101.226.233.158 /wechat/index.php/Home/index?signature=52ee634912ce2452ffedb8ae6910241ab91c2dbe&timestamp=1490618346&nonce=425677788&openid=o4qGOwDoRc897FkRqzzKuXSOf56w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001004s ]
+
+[ 2017-03-27T21:02:02+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2017-03-27T21:02:02+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=0859c74d0c0e0da8d4165e0aa00af86556db82a5&timestamp=1490619722&nonce=1645860212&openid=o4qGOwDyYTMorpiQ0JdpP2pBbVdY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-03-27T21:09:52+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-03-27T21:09:52+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=9d55bbbace9b165de1dd966b326805ee01aa9778&timestamp=1490620192&nonce=69990043&openid=o4qGOwDyYTMorpiQ0JdpP2pBbVdY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-03-27T21:10:48+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2017-03-27T21:10:48+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=f1ccea53e5e5310b65112a435f90b2ff6203ace1&timestamp=1490620248&nonce=1312716077&openid=o4qGOwIxwpOBnKLDkmhsXb8lJQxQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-03-27T21:10:50+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=3d5f02a51ab2c20ad60d3f6444d9263305ce66ab&timestamp=1490620250&nonce=2079093759&openid=o4qGOwDyYTMorpiQ0JdpP2pBbVdY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-03-27T21:10:51+08:00 ] 123.151.38.94 /wechat/index.php/Home/index/getUserInfo?code=0211V63O0N0tC82IqR5O0nmp3O01V63P&state=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-03-27T21:16:44+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-03-27T21:16:44+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=406c8e8df9b3f7c0aaf04adf09d0e2ba477a4f1b&timestamp=1490620604&nonce=99446825&openid=o4qGOwB9pakwsFziQGBl1D4nRAyc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-03-27T21:34:52+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2017-03-27T21:34:52+08:00 ] 101.226.62.79 /wechat/index.php/Home/index?signature=ca8c15399fa113ca07fa62edd37a4559f5fcc7a0&timestamp=1490621692&nonce=1175699849&openid=o4qGOwGTLuDDEZo2uffd92vlQmQY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-03-27T21:34:53+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-03-27T21:34:53+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=8d62f4889de81c2dca6a3afe7cbef2403aa2f373&timestamp=1490621692&nonce=1276421379&openid=o4qGOwHt02YqCkLQ-kGUOX-Spfzo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-03-27T21:52:10+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000974s ]
+
+[ 2017-03-27T21:52:10+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=04319f2397f73bf7916e32781025bbedc60b9265&timestamp=1490622730&nonce=2042210825&openid=o4qGOwDZHmdcYaA7fQdkTTG1ihCs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-03-27T21:52:10+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-03-27T21:52:10+08:00 ] 101.226.233.148 /wechat/index.php/Home/index?signature=cdafd0d8e95cea5136f535c9a450ae98b434937a&timestamp=1490622730&nonce=1802081807&openid=o4qGOwMqlP-rybgHnWIbgUVajx3g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-03-27T22:06:03+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2017-03-27T22:06:04+08:00 ] 101.226.103.70 /wechat/index.php/Home/index?signature=fe5de51192a83e478d55d2d33e7a698361726323&timestamp=1490623563&nonce=2075488590&openid=o4qGOwM7iBIyPWWNJUCbRol58geo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-03-27T22:08:07+08:00 ] 121.42.32.219 /wechat/index.php/Home/Index/sendTemplateMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: msg D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 511 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+
+[ 2017-03-27T22:08:07+08:00 ] 101.226.233.143 /wechat/index.php/Home/index?signature=21c82785bc89f03a4c157f8e327bdc5745a08fc1&timestamp=1490623687&nonce=107552043&openid=o4qGOwOGOfW-CSlWTU9syGkMg6D8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [8] Undefined index: echostr D:\wwwroot\test_ykzp_com\wechat\Application\Home\Controller\IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+

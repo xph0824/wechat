@@ -25,7 +25,7 @@
 			<ul class="personalUl">
 				<li><a href="<?php echo U('Index/carefor',array('id'=>$row['openid']));?>"><i><img src="/wechat/Public/img/personal01.png" alt=""></i>我关注谁<span></span></a></li>
 				<li><a href="<?php echo U('Index/health_report',array('id'=>$row['openid']));?>"><i><img src="/wechat/Public/img/personal02.png" alt=""></i>健康报告<span></span></a></li>
-				<!-- <li><a href=""><i><img src="/wechat/Public/img/personal03.png" alt=""></i>咨询历史<span></span></a></li> -->
+				<li><a href=""><i><img src="/wechat/Public/img/personal04.png" alt=""></i>控糖须知<span></span></a></li>
 			</ul>
 		</div>
 	</div>

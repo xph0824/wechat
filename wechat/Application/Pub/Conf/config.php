@@ -18,7 +18,8 @@ return array(
 		'unfollow'  => 'Index/unfollow',
 		'handle'  => 'Index/handle',
 		'question'  => 'Index/question',
-		'health_report'  => 'Index/health_report'
+		'health_report'  => 'Index/health_report',
+		'sular_text'  => 'Index/sular_text'
 
     ],
 );

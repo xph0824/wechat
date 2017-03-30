@@ -1,0 +1,167 @@
+﻿/*评估测试html*/
+.sugar_page{
+	font-size: 0.3rem;
+	color: #4d4d4d;
+	position: relative;
+	display: none;
+}
+.sugar_page_block{
+	display: block;
+}
+.sugar_page_num{
+	font-size: 0.28rem;
+	color: #fa5d41;
+	padding: 0.1rem 0;
+	text-align: center;
+}
+.sugar_page p{
+ 	padding: 0 0.1rem;
+}
+.sugar_first,.sugar_second,.sugar_third,.sugar_fourth,.sugar_fifth,.sugar_sixth{
+	padding: 0.1rem 0.42rem;
+}
+.sugar_first div,.sugar_second div,.sugar_third div,.sugar_fourth div,.sugar_fifth div,.sugar_sixth div{
+	padding: 0.15rem 0;
+	height: 0.5rem;
+	line-height: 0.48rem;
+}
+.sugar_first div label,.sugar_second div label,.sugar_third div label,.sugar_fourth div label,.sugar_fifth div label,.sugar_sixth div label{
+	margin-right: 0.3rem;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	width: 0.34rem;
+	height: 0.34rem;
+	border: 0.02rem solid #acacac;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	background: #fff;
+}
+.sugar_first .sugar_age_sele,.sugar_second .sugar_age_sele,.sugar_third .sugar_age_sele,.sugar_fourth .sugar_age_sele,.sugar_fifth .sugar_age_sele,.sugar_sixth .sugar_age_sele{
+	background: url(http://test.ykzp.com/wechat/Public/img/sugar_sel.png) 0 0 no-repeat;
+	background-size: 100%;
+	border: 0.02rem solid #6eb92b;
+}
+.sugar_first div input,.sugar_second div input,.sugar_third div input,.sugar_fourth div input,.sugar_fifth div input,.sugar_sixth div input{
+	position: absolute;
+	opacity: 0;
+	top: 0.02rem;
+	left: 0.02rem;
+	width: 0.34rem;
+	height: 0.34rem;
+}
+.button_box{
+	width: 5.82rem;
+	height: 0.84rem;
+	position: absolute;
+	left: 50%;
+	margin-left: -2.91rem;
+	bottom:5%;
+}
+.button_box input{
+	background: #6eb92b;
+	color: #fff;
+	border: none;
+	letter-spacing: 4px;
+	display: inline-block;
+	font-size: 0.34rem;
+	height: 0.84rem;
+	font-weight: bold;
+}
+.first_button{
+	-moz-border-radius: 0.4rem;
+	-webkit-border-radius: 0.4rem;
+	border-radius: 0.4rem;
+	width: 5.82rem;
+}
+.text_pre_button{
+	float: left;
+	width: 2.89rem;
+	margin-right: 0.04rem;
+	border-top-left-radius: 0.4rem;
+	border-bottom-left-radius: 0.4rem;
+}
+.text_right_next{
+	float: left;
+	width: 2.89rem;
+	border-top-right-radius: 0.4rem;
+	border-bottom-right-radius: 0.4rem;
+}
+
+
+
+/*评估结果*/
+.sugar_top{height: 0.2rem;}
+.sugar_circle{
+	width: 80%;
+	height: 4.2rem;
+	background: url(http://test.ykzp.com/wechat/Public/img/sugar_circle.png) 0 0 no-repeat;
+	background-size: 100%;
+	margin: 0 auto 0.3rem;
+	position: relative;
+}
+.sugar_circle img{
+	display: inline-block;
+	width: 1.7rem;
+	position: absolute;
+	top: 2.068rem;
+	left:1.23rem; 
+	transform-origin: 1.37rem 0.45rem;
+}
+.sugar_result{
+	position: absolute;
+	bottom: 0.3rem;
+	left: 44%;
+	font-size: 0.54rem;
+	color: #96ba67;
+	text-align: center;
+}
+.sugar_result_ul{
+	padding: 0 0.24rem 0 0.12rem;
+	font-size: 0.3rem;
+	color: #7e7e7e;
+	
+}
+.sugar_result_ul li{
+	margin-bottom: 0.1rem;
+	text-align: justify;
+	overflow: hidden;
+}
+.sugar_result_ul li span{
+	float: left;
+	width: 0.1rem;
+	height: 0.1rem;
+	background: #7e7e7e;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin-right: 0.3rem;
+	margin-top: 0.16rem;
+}
+.sugar_result_ul li p{
+	float: left;
+	width: 90%;
+}
+.sugar_result_ul li p i{
+	font-size: 0.42rem;
+	color: #93cb4a;
+}
+.text_again a{
+	width: 5.82rem;
+	height: 0.84rem;
+	display: block;
+	position: absolute;
+	bottom: 0.5rem;
+	left: 50%;
+	margin-left:-2.91rem;
+	text-align: center;
+	-moz-border-radius: 0.4rem;
+	-webkit-border-radius: 0.4rem;
+	border-radius: 0.4rem;
+	line-height: 0.84rem;
+	background: #6eb92b;
+	font-size: 0.34rem;	
+	letter-spacing: 2px;
+	color: #fff;
+}
